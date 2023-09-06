@@ -14,11 +14,27 @@
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/2023/zhang2023114230/</loc>
+    <loc>https://example.com/publication/team/2023/zhang2023114230/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/admin/2023/han2023103250/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/admin/2023/zhang2023128252/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/energy/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/journal/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/ocean-engineering/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -40,6 +56,14 @@
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/publication/admin/2023/chen2023100257/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/admin/2023/chen2023113947/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/tags/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -54,7 +78,7 @@
                 href="https://example.com/tags/"
                 />
   </url><url>
-    <loc>https://example.com/publication/2023/nano13061036/</loc>
+    <loc>https://example.com/publication/team/2023/nano13061036/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
