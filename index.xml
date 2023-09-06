@@ -232,7 +232,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-936817425&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-568317249&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -242,7 +242,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-936817425&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-568317249&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -755,7 +755,7 @@ $$&lt;/p&gt;
 &lt;li&gt;比较好的微积分和线性代数基础；&lt;/li&gt;
 &lt;li&gt;一定的理论力学和流体力学基础；&lt;/li&gt;
 &lt;li&gt;基本的python或者Java编程基础；&lt;/li&gt;
-&lt;li&gt;对基于有限元法或者有限体积法的数值计算软件有一定实践，如果没有，能够熟练使用计算机辅助设计软件（也是极&lt;/li&gt;
+&lt;li&gt;对基于有限元法或者有限体积法的数值计算软件有一定实践，如果没有，能够熟练使用计算机辅助设计软件（CAD）也是极好的；&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;iii.海洋工程代理模型及智能&lt;/p&gt;
 &lt;ul&gt;
