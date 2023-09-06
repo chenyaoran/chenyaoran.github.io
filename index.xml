@@ -232,7 +232,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-415386279&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-936817425&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -242,7 +242,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-415386279&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-936817425&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -736,11 +736,37 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>My page</title>
+      <title>招生信息</title>
       <link>https://example.com/hello/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/hello/</guid>
-      <description></description>
+      <description>&lt;p&gt;同学你好，如果你对我的研究方向感兴趣，可以发邮件(&lt;a href=&#34;mailto:ychen169@shu.edu.cn&#34;&gt;ychen169@shu.edu.cn&lt;/a&gt;)和我联系交流。针对不同的研究方向，你如果具备以下的学习基础将可能会更快速地上手：&lt;/p&gt;
+&lt;p&gt;i. 智能海洋环境&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;比较好的英语阅读和写作能力；&lt;/li&gt;
+&lt;li&gt;比较好的线性代数和统计学基础；&lt;/li&gt;
+&lt;li&gt;比较好的python编程基础；&lt;/li&gt;
+&lt;li&gt;对基于tensorflow，keras或者pytorch的深度学习框架有一定实践；&lt;/li&gt;
+&lt;li&gt;喜欢并渴望了解chatGPT等大语言&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ii. 计算流体动力学数值&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;比较好的英语阅读能力；&lt;/li&gt;
+&lt;li&gt;比较好的微积分和线性代数基础；&lt;/li&gt;
+&lt;li&gt;一定的理论力学和流体力学基础；&lt;/li&gt;
+&lt;li&gt;基本的python或者Java编程基础；&lt;/li&gt;
+&lt;li&gt;对基于有限元法或者有限体积法的数值计算软件有一定实践，如果没有，能够熟练使用计算机辅助设计软件（也是极&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;iii.海洋工程代理模型及智能&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;超强的探索欲望和内部驱动力&lt;/li&gt;
+&lt;li&gt;比较好的英语阅读能力和写作能力；&lt;/li&gt;
+&lt;li&gt;比较好的线性代数和概率论基础；&lt;/li&gt;
+&lt;li&gt;一定的数学建模思维和学习基础；&lt;/li&gt;
+&lt;li&gt;基本的python编程基础；&lt;/li&gt;
+&lt;li&gt;对启发式算法（如遗传算法）或强化学习有一定实践。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
