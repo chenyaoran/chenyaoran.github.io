@@ -151,5 +151,8 @@
   </url><url>
     <loc>https://example.com/hello/</loc>
     <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/projects/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
