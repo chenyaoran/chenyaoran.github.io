@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>海洋风机 | 陈耀然</title>
+    <link>https://example.com/tag/%E6%B5%B7%E6%B4%8B%E9%A3%8E%E6%9C%BA/</link>
+      <atom:link href="https://example.com/tag/%E6%B5%B7%E6%B4%8B%E9%A3%8E%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" />
+    <description>海洋风机</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 03 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>海洋风机</title>
+      <link>https://example.com/tag/%E6%B5%B7%E6%B4%8B%E9%A3%8E%E6%9C%BA/</link>
+    </image>
+    
+    <item>
+      <title>Investigation of wake characteristics for the offshore floating vertical axis wind turbines in pitch and surge motions of platforms</title>
+      <link>https://example.com/publication/admin/2019/001-2019-egy-lh-hzl/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2019/001-2019-egy-lh-hzl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

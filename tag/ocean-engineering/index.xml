@@ -20,5 +20,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Surrogate models for twin-VAWT performance based on Kriging and artificial neural networks</title>
+      <link>https://example.com/publication/admin/2023/015-2023-oe-cyr-zd/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2023/015-2023-oe-cyr-zd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigation of pitch angles on the aerodynamics of twin-VAWT under staggered arrangement</title>
+      <link>https://example.com/publication/admin/2022/012-2022-oe-cyr-hzl/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2022/012-2022-oe-cyr-hzl/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
