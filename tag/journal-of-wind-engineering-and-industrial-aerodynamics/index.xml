@@ -5,7 +5,7 @@
     <link>https://example.com/tag/journal-of-wind-engineering-and-industrial-aerodynamics/</link>
       <atom:link href="https://example.com/tag/journal-of-wind-engineering-and-industrial-aerodynamics/index.xml" rel="self" type="application/rss+xml" />
     <description>Journal of Wind Engineering and Industrial Aerodynamics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Journal of Wind Engineering and Industrial Aerodynamics</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Aerodynamic performance assessment of φ-type vertical axis wind turbine under pitch motion</title>
+      <title>Systematic investigation of effect of rotor solidity on vertical-axis wind turbines: Power performance and aerodynamics analysis</title>
       <link>https://example.com/publication/admin/2023/014-2023-jweia-klm-zd/</link>
-      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/admin/2023/014-2023-jweia-klm-zd/</guid>
       <description></description>
     </item>

@@ -5,7 +5,7 @@
     <link>https://example.com/tag/ocean-engineering/</link>
       <atom:link href="https://example.com/tag/ocean-engineering/index.xml" rel="self" type="application/rss+xml" />
     <description>Ocean Engineering</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Ocean Engineering</title>
@@ -15,7 +15,7 @@
     <item>
       <title>A data driven method for multi-step prediction of ship roll motion in high sea states</title>
       <link>https://example.com/publication/team/2023/zhang2023114230/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/team/2023/zhang2023114230/</guid>
       <description></description>
     </item>
@@ -23,15 +23,31 @@
     <item>
       <title>Surrogate models for twin-VAWT performance based on Kriging and artificial neural networks</title>
       <link>https://example.com/publication/admin/2023/015-2023-oe-cyr-zd/</link>
-      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/admin/2023/015-2023-oe-cyr-zd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precontrol of short-period motion for a Tension Leg Platform</title>
+      <link>https://example.com/publication/team/2022/2022_wh_wh/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/team/2022/2022_wh_wh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement learning-based close formation control for underactuated surface vehicle with prescribed performance and time-varying state constraints</title>
+      <link>https://example.com/publication/team/2022/2022_chz_zd/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/team/2022/2022_chz_zd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigation of pitch angles on the aerodynamics of twin-VAWT under staggered arrangement</title>
       <link>https://example.com/publication/admin/2022/012-2022-oe-cyr-hzl/</link>
-      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/admin/2022/012-2022-oe-cyr-hzl/</guid>
       <description></description>
     </item>

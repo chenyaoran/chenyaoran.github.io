@@ -14,7 +14,7 @@
     <lastmod>2023-07-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/admin/2023/019_2023-electronics-cll-jqg/</loc>
+    <loc>https://example.com/tag/computer-vision/</loc>
     <lastmod>2023-07-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -23,6 +23,14 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/journal/</loc>
+    <lastmod>2023-07-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/admin/2023/019_2023-electronics-cll-jqg/</loc>
+    <lastmod>2023-07-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/machine-learning/</loc>
     <lastmod>2023-07-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -44,6 +52,10 @@
     <lastmod>2023-07-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/tag/robots/</loc>
+    <lastmod>2023-07-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/tags/</loc>
     <lastmod>2023-07-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -58,48 +70,72 @@
                 href="https://example.com/tags/"
                 />
   </url><url>
-    <loc>https://example.com/publication/admin/2023/018-2023-egy-zzh-hzl/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <loc>https://example.com/publication/admin/2023/017-2023-seta-hzl-zd/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/energy/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <loc>https://example.com/tag/cfd/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/sustainable-energy-technologies-and-assessments/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/vawt/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/team/2023/zhang2023114230/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/admin/2023/017-2023-seta-hzl-zd/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/ocean-engineering/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/energy-and-ai/</loc>
-    <lastmod>2023-03-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/admin/2023/016-2023-eai-cyr-zd/</loc>
-    <lastmod>2023-03-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/team/2023/nano13061036/</loc>
-    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+    <loc>https://example.com/tag/surrogate-model/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/admin/2023/015-2023-oe-cyr-zd/</loc>
-    <lastmod>2023-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/admin/2023/014-2023-jweia-klm-zd/</loc>
-    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+    <loc>https://example.com/tag/nano-material/</loc>
+    <lastmod>2023-03-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/team/2023/nano13061036/</loc>
+    <lastmod>2023-03-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/viv/</loc>
+    <lastmod>2023-03-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/journal-of-wind-engineering-and-industrial-aerodynamics/</loc>
-    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/admin/2023/014-2023-jweia-klm-zd/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication-type/3/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/journal-of-ocean-engineering-and-science/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/team/2022/2022_wh_wh/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/tlp/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/</loc>
@@ -116,36 +152,64 @@
                 href="https://example.com/"
                 />
   </url><url>
-    <loc>https://example.com/publication/admin/2022/012-2022-oe-cyr-hzl/</loc>
-    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/publication/admin/2022/013-2022-ecm-klm-hzl/</loc>
-    <lastmod>2022-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/energy-conversion-and-management/</loc>
-    <lastmod>2022-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/reinforcement-learning/</loc>
+    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/team/2022/2022_chz_zd/</loc>
+    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/usv/</loc>
+    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/admin/2022/012-2022-oe-cyr-hzl/</loc>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/energy/</loc>
+    <lastmod>2022-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/admin/2022/011-2022-egy-dzk-zd/</loc>
-    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/admin/2021/009-2021-ecm-cyr-hzl/</loc>
-    <lastmod>2021-09-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/time-series/</loc>
+    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/admin/2022/010-2022-egy-klm-zd/</loc>
-    <lastmod>2021-09-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/airfoil/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/admin/2021/008-2021-ecm-cyr-hzl/</loc>
-    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/team/2021/2021_ijvd_ljj_zd/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/admin/2021/007-2021-egy-sj-hzl/</loc>
-    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/admin/2021/006-2021-ecm-cyr-hzl/</loc>
@@ -191,35 +255,35 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/admin/2020/005-2020-rene-cyr-hzl/</loc>
-    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/renewable-energy/</loc>
-    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/applied-energy/</loc>
-    <lastmod>2020-02-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/admin/2020/004-2020-apen-sj-hzl/</loc>
-    <lastmod>2020-02-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/aip-advances/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/admin/2020/003-2020-aip-zyh-hzl/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/energy-science-engineering/</loc>
-    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/admin/2019/002-2019-ese-klm-hzl/</loc>
-    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/writing-technical-content/</loc>
@@ -238,28 +302,8 @@
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/cfd/</loc>
-    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/publication/admin/2019/001-2019-egy-lh-hzl/</loc>
-    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/%E5%8D%95%E9%A3%8E%E6%9C%BA/</loc>
-    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/%E5%9E%82%E7%9B%B4%E8%BD%B4%E9%A3%8E%E6%9C%BA/</loc>
-    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/%E5%B0%BE%E6%B5%81%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/%E6%B5%B7%E6%B4%8B%E9%A3%8E%E6%9C%BA/</loc>
-    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/deep-learning/</loc>

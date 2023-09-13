@@ -5,7 +5,7 @@
     <link>https://example.com/tag/applied-energy/</link>
       <atom:link href="https://example.com/tag/applied-energy/index.xml" rel="self" type="application/rss+xml" />
     <description>Applied Energy</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Applied Energy</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Investigation of V-shaped blade for the performance improvement of vertical axis wind turbines</title>
       <link>https://example.com/publication/admin/2020/004-2020-apen-sj-hzl/</link>
-      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/admin/2020/004-2020-apen-sj-hzl/</guid>
       <description></description>
     </item>
