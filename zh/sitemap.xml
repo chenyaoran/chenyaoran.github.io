@@ -94,6 +94,18 @@
     <lastmod>2023-05-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/tag/pemfc/</loc>
+    <lastmod>2023-04-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/proceedings-of-the-institution-of-mechanical-engineers-part-e-journal-of-process-mechanical-engineering/</loc>
+    <lastmod>2023-04-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/team/2023/2023_sarah_zd_jpme/</loc>
+    <lastmod>2023-04-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/tag/surrogate-model/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -112,6 +124,18 @@
   </url><url>
     <loc>https://example.com/tag/viv/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication-type/1/</loc>
+    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/conference/</loc>
+    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/team/2023/2023_otsmd_lzj_lxw/</loc>
+    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/journal-of-wind-engineering-and-industrial-aerodynamics/</loc>

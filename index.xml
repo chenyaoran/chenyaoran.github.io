@@ -57,6 +57,14 @@
     </item>
     
     <item>
+      <title>The effects of flow field design on PEMFC</title>
+      <link>https://example.com/publication/team/2023/2023_sarah_zd_jpme/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/team/2023/2023_sarah_zd_jpme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Surrogate models for twin-VAWT performance based on Kriging and artificial neural networks</title>
       <link>https://example.com/publication/admin/2023/015-2023-oe-cyr-zd/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
@@ -69,6 +77,14 @@
       <link>https://example.com/publication/team/2023/nano13061036/</link>
       <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/team/2023/nano13061036/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation of low-frequency vortex-induced resonance triboelectric nanogenerator in low-velocity fluid</title>
+      <link>https://example.com/publication/team/2023/2023_otsmd_lzj_lxw/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/team/2023/2023_otsmd_lzj_lxw/</guid>
       <description></description>
     </item>
     
@@ -384,7 +400,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-587321496&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-269153874&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -394,7 +410,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-587321496&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-269153874&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
