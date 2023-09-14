@@ -5,12 +5,20 @@
     <link>https://example.com/tag/vawt/</link>
       <atom:link href="https://example.com/tag/vawt/index.xml" rel="self" type="application/rss+xml" />
     <description>VAWT</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>VAWT</title>
       <link>https://example.com/tag/vawt/</link>
     </image>
+    
+    <item>
+      <title>Strategy for mitigating wake interference between offshore vertical-axis wind turbines: Evaluation of vertically staggered arrangement</title>
+      <link>https://example.com/publication/admin/2023/020_2023-apen-klm-zd/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2023/020_2023-apen-klm-zd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Aerodynamic performance optimization of vertical axis wind turbine with straight blades based on synergic control of pitch and flap</title>

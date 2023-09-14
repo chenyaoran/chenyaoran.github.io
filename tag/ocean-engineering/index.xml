@@ -5,12 +5,20 @@
     <link>https://example.com/tag/ocean-engineering/</link>
       <atom:link href="https://example.com/tag/ocean-engineering/index.xml" rel="self" type="application/rss+xml" />
     <description>Ocean Engineering</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Ocean Engineering</title>
       <link>https://example.com/tag/ocean-engineering/</link>
     </image>
+    
+    <item>
+      <title>Trajectory planning for unmanned surface vehicles in multi-ship encounter situations</title>
+      <link>https://example.com/publication/team/2023/2023_ljj_zd/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/team/2023/2023_ljj_zd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A data driven method for multi-step prediction of ship roll motion in high sea states</title>
