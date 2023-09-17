@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chuhan Wu | 陈耀然</title>
+    <link>https://example.com/authors/chuhan-wu/</link>
+      <atom:link href="https://example.com/authors/chuhan-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chuhan Wu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Chuhan Wu</title>
+      <link>https://example.com/authors/chuhan-wu/</link>
+    </image>
+    
+    <item>
+      <title>Surrogate models for twin-VAWT performance based on Kriging and artificial neural networks</title>
+      <link>https://example.com/publication/admin/2023/015-2023-oe-cyr-zd/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2023/015-2023-oe-cyr-zd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

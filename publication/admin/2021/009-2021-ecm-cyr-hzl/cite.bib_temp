@@ -1,0 +1,13 @@
+@article{CHEN2021114451,
+title = {2-D regional short-term wind speed forecast based on CNN-LSTM deep learning model},
+journal = {Energy Conversion and Management},
+volume = {244},
+pages = {114451},
+year = {2021},
+issn = {0196-8904},
+doi = {https://doi.org/10.1016/j.enconman.2021.114451},
+url = {https://www.sciencedirect.com/science/article/pii/S0196890421006270},
+author = {Yaoran Chen and Yan Wang and Zhikun Dong and Jie Su and Zhaolong Han and Dai Zhou and Yongsheng Zhao and Yan Bao},
+keywords = {Regional wind speed prediction, CNN, LSTM, Temporal series fitness, Spatial distribution},
+abstract = {Short-term wind speed forecast is of great importance to wind farm regulation and its early warning. Previous studies mainly focused on the prediction at a single location but few extended the task to 2-D wind plane. In this study, a novel deep learning model was proposed for a 2-D regional wind speed forecast, using the combination of the auto-encoder of convolutional neural network (CNN) and the long short-term memory unit (LSTM). The 12-hidden-layer deep CNN was adopted to encode the high dimensional 2-D input into the embedding vector and inversely, to decode such latent representation after it was predicted by the LSTM module based on historical data. The model performance was compared with parallel models under different criteria, including MAE, RMSE and R2, all showing stable and considerable enhancements. For instance, the overall MAE value dropped to 0.35 m/s for the current model, which is 32.7%, 28.8% and 18.9% away from the prediction results using the persistence, basic ANN and LSTM model. Moreover, comprehensive discussions were provided from both temporal and spatial views of analysis, revealing that the current model can not only offer an accurate wind speed forecast along timeline (R2 equals to 0.981), but also give a distinct estimation of the spatial wind speed distribution in 2-D wind farm.}
+}

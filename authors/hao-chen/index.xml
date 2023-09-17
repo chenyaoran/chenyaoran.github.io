@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hao Chen | 陈耀然</title>
+    <link>https://example.com/authors/hao-chen/</link>
+      <atom:link href="https://example.com/authors/hao-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hao Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Hao Chen</title>
+      <link>https://example.com/authors/hao-chen/</link>
+    </image>
+    
+    <item>
+      <title>Aerodynamic performance optimization of vertical axis wind turbine with straight blades based on synergic control of pitch and flap</title>
+      <link>https://example.com/publication/admin/2023/017-2023-seta-hzl-zd/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2023/017-2023-seta-hzl-zd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigation of pitch angles on the aerodynamics of twin-VAWT under staggered arrangement</title>
+      <link>https://example.com/publication/admin/2022/012-2022-oe-cyr-hzl/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2022/012-2022-oe-cyr-hzl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

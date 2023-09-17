@@ -5,7 +5,7 @@
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <description>个人主页</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>个人主页</title>
@@ -37,7 +37,7 @@
       <link>https://example.com/publication/admin/2023/020_2023-apen-klm-zd/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/admin/2023/020_2023-apen-klm-zd/</guid>
-      <description></description>
+      <description>&lt;!-- url_code = &#34;code.zip&#34;. --&gt;</description>
     </item>
     
     <item>
@@ -432,7 +432,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-378154692&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-142793586&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -442,7 +442,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-378154692&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-142793586&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -944,6 +944,25 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>科研项目</title>
+      <link>https://example.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/</guid>
+      <description>&lt;h2 id=&#34;在研项目&#34;&gt;在研项目&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;基于自监督学习的海洋垂直轴风机混叠尾流场时序预测（2024-2026，&lt;strong&gt;国家自然科学基金青年项目，主持&lt;/strong&gt;）&lt;/li&gt;
+&lt;li&gt;XXX海洋环境特征库软件（2023-2024，&lt;strong&gt;军工横向项目，主持&lt;/strong&gt;）&lt;/li&gt;
+&lt;li&gt;基于自适应学习的海洋风浪联合短期预测模型研究（2023，&lt;strong&gt;上海大学科研启动项目，主持&lt;/strong&gt;）&lt;/li&gt;
+&lt;li&gt;复杂海洋环境对XXX影响研究（2023，军工横向项目，参与）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;已结题项目&#34;&gt;已结题项目&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;无人艇集群运动仿真系统开发 (2022，横向项目，参与)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>招生信息</title>
       <link>https://example.com/hello/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -973,25 +992,6 @@ $$&lt;/p&gt;
 &lt;li&gt;一定的数学建模思维和学习基础；&lt;/li&gt;
 &lt;li&gt;基本的python编程基础；&lt;/li&gt;
 &lt;li&gt;对启发式算法（如遗传算法）或强化学习有一定实践。&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>科研项目</title>
-      <link>https://example.com/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/</guid>
-      <description>&lt;h2 id=&#34;在研项目&#34;&gt;在研项目&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;基于自监督学习的海洋垂直轴风机混叠尾流场时序预测（2024-2026，&lt;strong&gt;国家自然科学基金青年项目，主持&lt;/strong&gt;）&lt;/li&gt;
-&lt;li&gt;XXX海洋环境特征库软件（2023-2024，&lt;strong&gt;军工横向项目，主持&lt;/strong&gt;）&lt;/li&gt;
-&lt;li&gt;基于自适应学习的海洋风浪联合短期预测模型研究（2023，&lt;strong&gt;上海大学科研启动项目，主持&lt;/strong&gt;）&lt;/li&gt;
-&lt;li&gt;复杂海洋环境对XXX影响研究（2023，军工横向项目，参与）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;已结题项目&#34;&gt;已结题项目&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;无人艇集群运动仿真系统开发 (2022，横向项目，参与)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

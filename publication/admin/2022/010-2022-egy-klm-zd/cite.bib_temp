@@ -1,0 +1,13 @@
+@article{KUANG2022122196,
+title = {Wind-capture-accelerate device for performance improvement of vertical-axis wind turbines: External diffuser system},
+journal = {Energy},
+volume = {239},
+pages = {122196},
+year = {2022},
+issn = {0360-5442},
+doi = {https://doi.org/10.1016/j.energy.2021.122196},
+url = {https://www.sciencedirect.com/science/article/pii/S0360544221024440},
+author = {Limin Kuang and Jie Su and Yaoran Chen and Zhaolong Han and Dai Zhou and Kai Zhang and Yongsheng Zhao and Yan Bao},
+keywords = {Vertical-axis wind turbine, External diffuser system, Power performance, Parametric analysis, Improved delayed detached-eddy simulation},
+abstract = {The unsatisfactory power performance hinders the development of vertical-axis wind turbines (VAWTs). Installing a wind-capture-accelerate device outside the VAWT is one possible way to alleviate this situation. In the current study, an external diffuser system is designed to improve the power performance of the VAWT. The three-dimensional improved delayed detached-eddy simulation is employed to predict the aerodynamics. First, the power performance and aerodynamic loads of the VAWT equipped with different types of basic diffusers are compared at the optimal tip speed ratio (TSR) of 1.5. Then, a stepwise parametric analysis of the effects of size parameters, i.e., projected length, 1 ≤ L1/D ≤ 2.5 and diffusion angle, 10° ≤ θ1 ≤ 30°, is performed in various operating conditions, i.e., 0.4 ≤ TSR ≤2.5. Afterwards, the effects of the rear flange and anterior ejector on the behaviors of the basic diffuser are investigated, and the flow structures around the VAWT are analyzed. Finally, an application prospect evaluation of the system is conducted. The results show that the enclosed type basic diffuser with curved inner surface can significantly improve the power performance of the VAWT at moderate and high TSRs. The aerodynamic loads on the blade are enlarged and present more fluctuations. The power coefficient of the VAWT at TSR = 1.5 is increased by 51.73% when L1/D = 2 and θ1 = 20°. The flange and ejector can further enhance the capability of the basic diffuser by increasing the pressure difference and stabilizing the flow field. It is concluded that the external diffuser system would have potential applications in specific urban areas.}
+}

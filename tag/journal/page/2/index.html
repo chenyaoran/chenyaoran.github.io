@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: 2023年9月14日 --><html lang="zh-Hans" >
+<!-- Last Published: 2023年9月17日 --><html lang="zh-cn" >
 
 
 <head>
@@ -239,6 +239,45 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VZENGRW3ZW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-VZENGRW3ZW', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
 
 
 
@@ -276,11 +315,11 @@
 
   
 
-<meta name="description" content="A highly-customizable Hugo academic resume theme powered by Wowchemy website builder." />
+<meta name="description" content="Researcher of Artificial Intelligence" />
 
 
 
-<link rel="alternate" hreflang="zh-Hans" href="https://example.com/tag/journal/" />
+<link rel="alternate" hreflang="zh-cn" href="https://example.com/tag/journal/" />
 <link rel="canonical" href="https://example.com/tag/journal/" />
 
 
@@ -312,17 +351,14 @@
 
 
 <meta property="twitter:card" content="summary" />
-
-  <meta property="twitter:site" content="@wowchemy" />
-  <meta property="twitter:creator" content="@wowchemy" />
 <meta property="twitter:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
 <meta property="og:site_name" content="陈耀然" />
 <meta property="og:url" content="https://example.com/tag/journal/" />
 <meta property="og:title" content="Journal | 陈耀然" />
-<meta property="og:description" content="A highly-customizable Hugo academic resume theme powered by Wowchemy website builder." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="zh-Hans" />
+<meta property="og:description" content="Researcher of Artificial Intelligence" /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="zh-cn" />
 
   
-    <meta property="og:updated_time" content="2023-12-01T00:00:00&#43;00:00" />
+    <meta property="og:updated_time" content="2023-10-15T00:00:00&#43;00:00" />
   
 
 
@@ -800,120 +836,6 @@
   <div class="media-body">
 
     <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/admin/2023/014-2023-jweia-klm-zd/" >Systematic investigation of effect of rotor solidity on vertical-axis wind turbines: Power performance and aerodynamics analysis</a>
-    </div>
-
-    
-    <a href="/publication/admin/2023/014-2023-jweia-klm-zd/"  class="summary-link">
-      <div class="article-style">
-        Small-scale vertical-axis wind turbines (VAWTs) are receiving growing interest for applications in urban areas. However, the …
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  <span >
-      Limin Kuang</span>, <span >
-      Rui Zhang</span>, <span >
-      Jie Su</span>, <span >
-      Yixiao Shao</span>, <span >
-      Kai Zhang</span>, <span class="author-highlighted">
-      Yaoran Chen</span>, <span >
-      Zhihao Zhang</span>, <span >
-      Yu Tu</span>, <span >
-      Dai Zhou</span>, <span >
-      Zhaolong Han</span>, <span >
-      Yan Bao</span>, <span >
-      Yong Cao</span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/admin/2023/014-2023-jweia-klm-zd/014-2023-JWEIA-KLM-ZD.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/admin/2023/014-2023-jweia-klm-zd/cite.bib">
-  引用
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1016/j.jweia.2022.105284" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/publication/team/2022/2022_wh_wh/" >Precontrol of short-period motion for a Tension Leg Platform</a>
     </div>
 
@@ -934,9 +856,9 @@
         
 
   <span >
-      Hao Wu</span>, <span >
-      Yan Lin</span>, <span >
-      Yongxi Wu</span>
+      <a href="/authors/hao-wu/">Hao Wu</a></span>, <span >
+      <a href="/authors/yan-lin/">Yan Lin</a></span>, <span >
+      <a href="/authors/yongxi-wu/">Yongxi Wu</a></span>
       </div>
       
     </div>
@@ -978,6 +900,40 @@
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/%e4%b8%ad%e7%a7%91%e9%99%a2%e4%b8%80%e5%8c%ba/" >
+    中科院一区</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/ocean-engineering/" >
+    Ocean Engineering</a>
 
 
     </div>
@@ -1034,17 +990,17 @@
         
 
   <span >
-      Limin Kuang</span>, <span >
-      Qi Lu</span>, <span >
-      Xuan Huang</span>, <span >
-      Leijian Song</span>, <span class="author-highlighted">
-      Yaoran Chen</span>, <span >
-      Jie Su</span>, <span >
-      Zhaolong Han</span>, <span >
-      Dai Zhou</span>, <span >
-      Yongsheng Zhao</span>, <span >
-      Yuwang Xu</span>, <span >
-      Yijie Liu</span>
+      <a href="/authors/limin-kuang/">Limin Kuang</a></span>, <span >
+      <a href="/authors/qi-lu/">Qi Lu</a></span>, <span >
+      <a href="/authors/xuan-huang/">Xuan Huang</a></span>, <span >
+      <a href="/authors/leijian-song/">Leijian Song</a></span>, <span class="author-highlighted">
+      <a href="/authors/admin/">Yaoran Chen</a></span>, <span >
+      <a href="/authors/jie-su/">Jie Su</a></span>, <span >
+      <a href="/authors/zhaolong-han/">Zhaolong Han</a></span>, <span >
+      <a href="/authors/dai-zhou/">Dai Zhou</a></span>, <span >
+      <a href="/authors/yongsheng-zhao/">Yongsheng Zhao</a></span>, <span >
+      <a href="/authors/yuwang-xu/">Yuwang Xu</a></span>, <span >
+      <a href="/authors/yijie-liu/">Yijie Liu</a></span>
       </div>
       
     </div>
@@ -1070,11 +1026,6 @@
 
 
 
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/admin/2022/013-2022-ecm-klm-hzl/cite.bib">
-  引用
-</a>
-
 
 
 
@@ -1091,6 +1042,40 @@
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/%e4%b8%ad%e7%a7%91%e9%99%a2%e4%b8%80%e5%8c%ba/" >
+    中科院一区</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/energy-conversion-and-management/" >
+    Energy Conversion and Management</a>
 
 
     </div>
@@ -1147,11 +1132,11 @@
         
 
   <span >
-      Huizi Chen</span>, <span >
-      Huaichen Yan</span>, <span >
-      Yueying Wang</span>, <span >
-      Shaorong Xie</span>, <span >
-      Dan Zhang</span>
+      <a href="/authors/huizi-chen/">Huizi Chen</a></span>, <span >
+      <a href="/authors/huaichen-yan/">Huaichen Yan</a></span>, <span >
+      <a href="/authors/yueying-wang/">Yueying Wang</a></span>, <span >
+      <a href="/authors/shaorong-xie/">Shaorong Xie</a></span>, <span >
+      <a href="/authors/dan-zhang/">Dan Zhang</a></span>
       </div>
       
     </div>
@@ -1193,6 +1178,40 @@
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/%e4%b8%ad%e7%a7%91%e9%99%a2%e4%b8%80%e5%8c%ba/" >
+    中科院一区</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/ocean-engineering/" >
+    Ocean Engineering</a>
 
 
     </div>
@@ -1249,15 +1268,15 @@
         
 
   <span class="author-highlighted">
-      Yaoran Chen</span>, <span >
-      Limin Kuang</span>, <span >
-      Jie Su</span>, <span >
-      Dai Zhou</span>, <span >
-      Yong Cao</span>, <span >
-      Hao Chen</span>, <span >
-      Zhaolong Han</span>, <span >
-      Yongsheng Zhao</span>, <span >
-      Shixiao Fu</span>
+      <a href="/authors/admin/">Yaoran Chen</a></span>, <span >
+      <a href="/authors/limin-kuang/">Limin Kuang</a></span>, <span >
+      <a href="/authors/jie-su/">Jie Su</a></span>, <span >
+      <a href="/authors/dai-zhou/">Dai Zhou</a></span>, <span >
+      <a href="/authors/yong-cao/">Yong Cao</a></span>, <span >
+      <a href="/authors/hao-chen/">Hao Chen</a></span>, <span >
+      <a href="/authors/zhaolong-han/">Zhaolong Han</a></span>, <span >
+      <a href="/authors/yongsheng-zhao/">Yongsheng Zhao</a></span>, <span >
+      <a href="/authors/shixiao-fu/">Shixiao Fu</a></span>
       </div>
       
     </div>
@@ -1283,11 +1302,6 @@
 
 
 
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/admin/2022/012-2022-oe-cyr-hzl/cite.bib">
-  引用
-</a>
-
 
 
 
@@ -1304,6 +1318,40 @@
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/%e4%b8%ad%e7%a7%91%e9%99%a2%e4%b8%80%e5%8c%ba/" >
+    中科院一区</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/ocean-engineering/" >
+    Ocean Engineering</a>
 
 
     </div>
@@ -1360,17 +1408,17 @@
         
 
   <span >
-      Zhikun Dong</span>, <span class="author-highlighted">
-      Yaoran Chen</span>, <span >
-      Dai Zhou</span>, <span >
-      Jie Su</span>, <span >
-      Zhaolong Han</span>, <span >
-      Yong Cao</span>, <span >
-      Yan Bao</span>, <span >
-      Feng Zhao</span>, <span >
-      Rui Wang</span>, <span >
-      Yongsheng Zhao</span>, <span >
-      Yuwang Xu</span>
+      <a href="/authors/zhikun-dong/">Zhikun Dong</a></span>, <span class="author-highlighted">
+      <a href="/authors/admin/">Yaoran Chen</a></span>, <span >
+      <a href="/authors/dai-zhou/">Dai Zhou</a></span>, <span >
+      <a href="/authors/jie-su/">Jie Su</a></span>, <span >
+      <a href="/authors/zhaolong-han/">Zhaolong Han</a></span>, <span >
+      <a href="/authors/yong-cao/">Yong Cao</a></span>, <span >
+      <a href="/authors/yan-bao/">Yan Bao</a></span>, <span >
+      <a href="/authors/feng-zhao/">Feng Zhao</a></span>, <span >
+      <a href="/authors/rui-wang/">Rui Wang</a></span>, <span >
+      <a href="/authors/yongsheng-zhao/">Yongsheng Zhao</a></span>, <span >
+      <a href="/authors/yuwang-xu/">Yuwang Xu</a></span>
       </div>
       
     </div>
@@ -1396,11 +1444,6 @@
 
 
 
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/admin/2022/011-2022-egy-dzk-zd/cite.bib">
-  引用
-</a>
-
 
 
 
@@ -1417,6 +1460,40 @@
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/%e4%b8%ad%e7%a7%91%e9%99%a2%e4%b8%80%e5%8c%ba/" >
+    中科院一区</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/energy/" >
+    Energy</a>
 
 
     </div>
@@ -1473,14 +1550,14 @@
         
 
   <span class="author-highlighted">
-      Yaoran Chen</span>, <span >
-      Yan Wang</span>, <span >
-      Zhikun Dong</span>, <span >
-      Jie Su</span>, <span >
-      Zhaolong Han</span>, <span >
-      Dai Zhou</span>, <span >
-      Yongsheng Zhao</span>, <span >
-      Yan Bao</span>
+      <a href="/authors/admin/">Yaoran Chen</a></span>, <span >
+      <a href="/authors/yan-wang/">Yan Wang</a></span>, <span >
+      <a href="/authors/zhikun-dong/">Zhikun Dong</a></span>, <span >
+      <a href="/authors/jie-su/">Jie Su</a></span>, <span >
+      <a href="/authors/zhaolong-han/">Zhaolong Han</a></span>, <span >
+      <a href="/authors/dai-zhou/">Dai Zhou</a></span>, <span >
+      <a href="/authors/yongsheng-zhao/">Yongsheng Zhao</a></span>, <span >
+      <a href="/authors/yan-bao/">Yan Bao</a></span>
       </div>
       
     </div>
@@ -1506,11 +1583,6 @@
 
 
 
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/admin/2021/009-2021-ecm-cyr-hzl/cite.bib">
-  引用
-</a>
-
 
 
 
@@ -1527,6 +1599,40 @@
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/%e4%b8%ad%e7%a7%91%e9%99%a2%e4%b8%80%e5%8c%ba/" >
+    中科院一区</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/energy-conversion-and-management/" >
+    Energy Conversion and Management</a>
 
 
     </div>
@@ -1583,14 +1689,14 @@
         
 
   <span >
-      Limin Kuang</span>, <span >
-      Jie Su</span>, <span class="author-highlighted">
-      Yaoran Chen</span>, <span >
-      Zhaolong Han</span>, <span >
-      Dai Zhou</span>, <span >
-      Kai Zhang</span>, <span >
-      Yongsheng Zhao</span>, <span >
-      Yan Bao</span>
+      <a href="/authors/limin-kuang/">Limin Kuang</a></span>, <span >
+      <a href="/authors/jie-su/">Jie Su</a></span>, <span class="author-highlighted">
+      <a href="/authors/admin/">Yaoran Chen</a></span>, <span >
+      <a href="/authors/zhaolong-han/">Zhaolong Han</a></span>, <span >
+      <a href="/authors/dai-zhou/">Dai Zhou</a></span>, <span >
+      <a href="/authors/kai-zhang/">Kai Zhang</a></span>, <span >
+      <a href="/authors/yongsheng-zhao/">Yongsheng Zhao</a></span>, <span >
+      <a href="/authors/yan-bao/">Yan Bao</a></span>
       </div>
       
     </div>
@@ -1616,11 +1722,6 @@
 
 
 
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/admin/2022/010-2022-egy-klm-zd/cite.bib">
-  引用
-</a>
-
 
 
 
@@ -1637,6 +1738,40 @@
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/%e4%b8%ad%e7%a7%91%e9%99%a2%e4%b8%80%e5%8c%ba/" >
+    中科院一区</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/energy-conversion-and-management/" >
+    Energy Conversion and Management</a>
 
 
     </div>
@@ -1693,14 +1828,14 @@
         
 
   <span class="author-highlighted">
-      Yaoran Chen</span>, <span >
-      Zhikun Dong</span>, <span >
-      Jie Su</span>, <span >
-      Yan Wang</span>, <span >
-      Zhaolong Han</span>, <span >
-      Dai Zhou</span>, <span >
-      Yongsheng Zhao</span>, <span >
-      Yan Bao</span>
+      <a href="/authors/admin/">Yaoran Chen</a></span>, <span >
+      <a href="/authors/zhikun-dong/">Zhikun Dong</a></span>, <span >
+      <a href="/authors/jie-su/">Jie Su</a></span>, <span >
+      <a href="/authors/yan-wang/">Yan Wang</a></span>, <span >
+      <a href="/authors/zhaolong-han/">Zhaolong Han</a></span>, <span >
+      <a href="/authors/dai-zhou/">Dai Zhou</a></span>, <span >
+      <a href="/authors/yongsheng-zhao/">Yongsheng Zhao</a></span>, <span >
+      <a href="/authors/yan-bao/">Yan Bao</a></span>
       </div>
       
     </div>
@@ -1726,11 +1861,6 @@
 
 
 
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/admin/2021/008-2021-ecm-cyr-hzl/cite.bib">
-  引用
-</a>
-
 
 
 
@@ -1747,6 +1877,40 @@
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/%e4%b8%ad%e7%a7%91%e9%99%a2%e4%b8%80%e5%8c%ba/" >
+    中科院一区</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/energy-conversion-and-management/" >
+    Energy Conversion and Management</a>
 
 
     </div>
@@ -1803,11 +1967,11 @@
         
 
   <span >
-      Jianjian Liu</span>, <span >
-      Meijiao Zhao</span>, <span >
-      Yan Peng</span>, <span >
-      Dan Zhang</span>, <span >
-      Shaorong Xie</span>
+      <a href="/authors/jianjian-liu/">Jianjian Liu</a></span>, <span >
+      <a href="/authors/meijiao-zhao/">Meijiao Zhao</a></span>, <span >
+      <a href="/authors/yan-peng/">Yan Peng</a></span>, <span >
+      <a href="/authors/dan-zhang/">Dan Zhang</a></span>, <span >
+      <a href="/authors/shaorong-xie/">Shaorong Xie</a></span>
       </div>
       
     </div>
@@ -1845,6 +2009,178 @@
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/%e4%b8%ad%e7%a7%91%e9%99%a2%e5%9b%9b%e5%8c%ba/" >
+    中科院四区</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/international-journal-of-vehicle-design/" >
+    International Journal of Vehicle Design</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/admin/2021/007-2021-egy-sj-hzl/" >Aerodynamic performance assessment of φ-type vertical axis wind turbine under pitch motion</a>
+    </div>
+
+    
+    <a href="/publication/admin/2021/007-2021-egy-sj-hzl/"  class="summary-link">
+      <div class="article-style">
+        The floating vertical axis wind turbine (VAWT) is considered as a competitive device in the utilization of offshore wind energy. …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/jie-su/">Jie Su</a></span>, <span >
+      <a href="/authors/yu-li/">Yu Li</a></span>, <span class="author-highlighted">
+      <a href="/authors/admin/">Yaoran Chen</a></span>, <span >
+      <a href="/authors/zhaolong-han/">Zhaolong Han</a></span>, <span >
+      <a href="/authors/dai-zhou/">Dai Zhou</a></span>, <span >
+      <a href="/authors/yongsheng-zhao/">Yongsheng Zhao</a></span>, <span >
+      <a href="/authors/yan-bao/">Yan Bao</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/admin/2021/007-2021-egy-sj-hzl/007-2021-EGY-SJ-HZL.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1016/j.energy.2021.120202" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/%e4%b8%ad%e7%a7%91%e9%99%a2%e4%b8%80%e5%8c%ba/" >
+    中科院一区</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/energy/" >
+    Energy</a>
 
 
     </div>

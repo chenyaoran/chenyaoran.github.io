@@ -10,6 +10,20 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/authors/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://example.com/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://example.com/authors/"
+                />
+  </url><url>
     <loc>https://example.com/publication-type/2/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -22,7 +36,27 @@
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/authors/dai-zhou/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/hiroshi-katsuchi/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/jiaqi-wang/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/tag/journal/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/kai-zhang/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/limin-kuang/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -66,6 +100,26 @@
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/authors/yan-bao/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/admin/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/yijie-liu/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/yong-cao/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/zhaolong-han/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/publication/admin/2023/018-2023-egy-zzh-hzl/</loc>
     <lastmod>2023-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -78,7 +132,47 @@
     <lastmod>2023-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/authors/jiahuang-tu/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/lei-duan/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/mingsheng-chen/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/yongsheng-zhao/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/zhihao-zhang/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/dan-zhang/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/huayan-pu/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/huizi-chen/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/jianjian-liu/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/tag/ocean-engineering/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/shaorong-xie/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -90,7 +184,19 @@
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/authors/yan-peng/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/chuanfu-xin/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/tag/expert-systems-with-applications/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/hao-wu/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -102,11 +208,43 @@
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/authors/runze-rao/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/senze-han/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/xingang-xu/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/yichen-liu/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/yongxi-wu/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/zhongjie-li/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/cao-leilei/</loc>
+    <lastmod>2023-07-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/tag/computer-vision/</loc>
     <lastmod>2023-07-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/electronics/</loc>
+    <lastmod>2023-07-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/jin-qiangguo/</loc>
     <lastmod>2023-07-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -122,12 +260,48 @@
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/authors/hao-chen/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/hongbo-zhu/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/jie-su/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/tag/sustainable-energy-technologies-and-assessments/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/tangbin-xia/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/team/2023/zhang2023114230/</loc>
     <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/shao-rong-xie/</loc>
+    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/xi-zhou/</loc>
+    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/zi-hao-wang/</loc>
+    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/aijun-li/</loc>
+    <lastmod>2023-04-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/jun-luo/</loc>
+    <lastmod>2023-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/pemfc/</loc>
@@ -138,8 +312,24 @@
     <lastmod>2023-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/authors/sahra-hamdollahi/</loc>
+    <lastmod>2023-04-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/tao-yue/</loc>
+    <lastmod>2023-04-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/publication/team/2023/2023_sarah_zd_jpme/</loc>
     <lastmod>2023-04-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/chuhan-wu/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/jiujun-zhang/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/surrogate-model/</loc>
@@ -150,7 +340,27 @@
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/authors/xiaowei-li/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/guo-hengyu/</loc>
+    <lastmod>2023-03-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/li-xiaowei/</loc>
+    <lastmod>2023-03-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/li-zhongjie/</loc>
+    <lastmod>2023-03-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/tag/nano-material/</loc>
+    <lastmod>2023-03-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/peng-yan/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -162,6 +372,26 @@
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/authors/wang-biao/</loc>
+    <lastmod>2023-03-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/wu-hao/</loc>
+    <lastmod>2023-03-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/zhang-dan/</loc>
+    <lastmod>2023-03-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/zhang-di/</loc>
+    <lastmod>2023-03-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/zhou-yuan/</loc>
+    <lastmod>2023-03-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/publication-type/1/</loc>
     <lastmod>2023-02-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -170,7 +400,23 @@
     <lastmod>2023-02-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/authors/di-zhang/</loc>
+    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/fan-shen/</loc>
+    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/publication/team/2023/2023_otsmd_lzj_lxw/</loc>
+    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/ying-gong/</loc>
+    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/yuan-zhou/</loc>
     <lastmod>2023-02-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -178,7 +424,19 @@
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/authors/rui-zhang/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/publication/admin/2023/014-2023-jweia-klm-zd/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/yixiao-shao/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/yu-tu/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -195,6 +453,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/tlp/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/yan-lin/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -220,6 +482,26 @@
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/authors/leijian-song/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/qi-lu/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/xuan-huang/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/yuwang-xu/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/huaichen-yan/</loc>
+    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/tag/reinforcement-learning/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -228,11 +510,31 @@
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/authors/yueying-wang/</loc>
+    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/publication/admin/2022/012-2022-oe-cyr-hzl/</loc>
     <lastmod>2022-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/authors/shixiao-fu/</loc>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/feng-zhao/</loc>
+    <lastmod>2022-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/rui-wang/</loc>
+    <lastmod>2022-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/publication/admin/2022/011-2022-egy-dzk-zd/</loc>
+    <lastmod>2022-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/zhikun-dong/</loc>
     <lastmod>2022-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -248,6 +550,10 @@
     <lastmod>2021-09-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/authors/yan-wang/</loc>
+    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/tag/airfoil/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -256,11 +562,19 @@
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/authors/meijiao-zhao/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/publication/team/2021/2021_ijvd_ljj_zd/</loc>
     <lastmod>2021-06-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/admin/2021/007-2021-egy-sj-hzl/</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/yu-li/</loc>
     <lastmod>2021-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -298,6 +612,10 @@
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/authors/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -307,6 +625,14 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/admin/2020/005-2020-rene-cyr-hzl/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/hang-lei/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/he-yang/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -322,7 +648,15 @@
     <lastmod>2020-01-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/authors/huan-ping/</loc>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/publication/admin/2020/003-2020-aip-zyh-hzl/</loc>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/yuhang-zhang/</loc>
     <lastmod>2020-01-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -335,6 +669,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/category/sci/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/zhiyu-jiang/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -385,10 +723,19 @@
     <loc>https://example.com/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/authors/yulanlan/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/hello/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/authors/lishuoying/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/projects/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/lanyingren/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

@@ -1,0 +1,13 @@
+@article{CHEN2020286,
+title = {A shape optimization of ϕ-shape Darrieus wind turbine under a given range of inlet wind speed},
+journal = {Renewable Energy},
+volume = {159},
+pages = {286-299},
+year = {2020},
+issn = {0960-1481},
+doi = {https://doi.org/10.1016/j.renene.2020.05.038},
+url = {https://www.sciencedirect.com/science/article/pii/S0960148120307369},
+author = {Yaoran Chen and Jie Su and Zhaolong Han and Yongsheng Zhao and Dai Zhou and He Yang and Yan Bao and Hang Lei},
+keywords = {-shape Darrieus turbine, BEM theory, Shape optimization, Inlet wind range, CMAES algorithm, CFD validation},
+abstract = {The ϕ-shape Darrieus wind turbines have great potential in application due to their omni-directionality and structural advantages. However, to achieve a higher aerodynamic performance, the design of such turbine needs attentive optimization to fit the surrounding wind variation. In this paper, a performance optimization of the shape of ϕ-shape Darrieus wind turbine with a given range of inlet wind speed is carried out. By involving a heuristic search algorithm, Covariance Matrix Adaptation Evolutionary Strategy (CMAES), into Double Multiple Streamtube model (DMST), three geometrical variables of the rotor: the equatorial radius (R), the ratio of radius over half-height (β) and the blade number (B) are modified according to the fitness function that was specially built to satisfy the inlet wind range requirements. Moreover, to validate the optimization output, a 3D CFD simulation is conducted as a comparison. The result shows that this program can present an entirely optimized model under the given range of inlet wind speed, with a 12.5% improved Cp at the optimal velocity compared with the baseline. Verification from CFD method shows a satisfactory agreement for the optimized model compared with the DMST output, indicating that this algorithm could provide a reliable reference for the shape selection of ϕ-shape Darrieus turbines under a certain inlet wind condition.}
+}

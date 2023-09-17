@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hongbo Zhu | 陈耀然</title>
+    <link>https://example.com/authors/hongbo-zhu/</link>
+      <atom:link href="https://example.com/authors/hongbo-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hongbo Zhu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Hongbo Zhu</title>
+      <link>https://example.com/authors/hongbo-zhu/</link>
+    </image>
+    
+    <item>
+      <title>Aerodynamic performance optimization of vertical axis wind turbine with straight blades based on synergic control of pitch and flap</title>
+      <link>https://example.com/publication/admin/2023/017-2023-seta-hzl-zd/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2023/017-2023-seta-hzl-zd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

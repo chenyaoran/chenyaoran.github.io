@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>李硕莹 | 陈耀然</title>
+    <link>https://example.com/authors/students/lishuoying/</link>
+      <atom:link href="https://example.com/authors/students/lishuoying/index.xml" rel="self" type="application/rss+xml" />
+    <description>李硕莹</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://example.com/authors/students/lishuoying/avatar_hu7e764abe7c9fd9e4927f90532b3ad456_9954603_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>李硕莹</title>
+      <link>https://example.com/authors/students/lishuoying/</link>
+    </image>
+    
+  </channel>
+</rss>

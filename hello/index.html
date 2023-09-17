@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: 2023年9月14日 --><html lang="zh-Hans" >
+<!-- Last Published: 2023年9月17日 --><html lang="zh-cn" >
 
 
 <head>
@@ -239,6 +239,45 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VZENGRW3ZW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-VZENGRW3ZW', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
 
 
 
@@ -284,7 +323,7 @@ i. 智能海洋环境
 
 
 
-<link rel="alternate" hreflang="zh-Hans" href="https://example.com/hello/" />
+<link rel="alternate" hreflang="zh-cn" href="https://example.com/hello/" />
 <link rel="canonical" href="https://example.com/hello/" />
 
 
@@ -316,9 +355,6 @@ i. 智能海洋环境
 
 
 <meta property="twitter:card" content="summary" />
-
-  <meta property="twitter:site" content="@wowchemy" />
-  <meta property="twitter:creator" content="@wowchemy" />
 <meta property="twitter:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
 <meta property="og:site_name" content="陈耀然" />
 <meta property="og:url" content="https://example.com/hello/" />
@@ -327,7 +363,7 @@ i. 智能海洋环境
 i. 智能海洋环境
 比较好的英语阅读和写作能力； 比较好的线性代数和统计学基础； 比较好的python编程基础； 对基于tensorflow，keras或者pytorch的深度学习框架有一定实践； 喜欢并渴望了解chatGPT等大语言 ii. 计算流体动力学数值
 比较好的英语阅读能力； 比较好的微积分和线性代数基础； 一定的理论力学和流体力学基础； 基本的python或者Java编程基础； 对基于有限元法或者有限体积法的数值计算软件有一定实践，如果没有，能够熟练使用计算机辅助设计软件（CAD）也是极好的； iii.海洋工程代理模型及智能
-超强的探索欲望和内部驱动力 比较好的英语阅读能力和写作能力； 比较好的线性代数和概率论基础； 一定的数学建模思维和学习基础； 基本的python编程基础； 对启发式算法（如遗传算法）或强化学习有一定实践。 " /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="zh-Hans" />
+超强的探索欲望和内部驱动力 比较好的英语阅读能力和写作能力； 比较好的线性代数和概率论基础； 一定的数学建模思维和学习基础； 基本的python编程基础； 对启发式算法（如遗传算法）或强化学习有一定实践。 " /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="zh-cn" />
 
   
   

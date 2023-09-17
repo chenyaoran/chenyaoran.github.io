@@ -1,0 +1,13 @@
+@article{CHEN2023113947,
+title = {Surrogate models for twin-VAWT performance based on Kriging and artificial neural networks},
+journal = {Ocean Engineering},
+volume = {273},
+pages = {113947},
+year = {2023},
+issn = {0029-8018},
+doi = {https://doi.org/10.1016/j.oceaneng.2023.113947},
+url = {https://www.sciencedirect.com/science/article/pii/S0029801823003311},
+author = {Yaoran Chen and Dan Zhang and Xiaowei Li and Yan Peng and Xiangyu Zhang and Zhaolong Han and Yong Cao and Zhikun Dong},
+keywords = {Twin vertical axis wind turbines, Computational fluid dynamics, Surrogate models, Kriging, Artificial neural network},
+abstract = {Though twin vertical axis wind turbines (VAWTs) have great potential in the application in oceanic energy harvest, their aerodynamic characteristics is quite complex, especially in the case of sufficient wake-blade interactions. At design stages, the prediction of their power performance usually relies on high-fidelity unsteady simulations based on computational fluid dynamics, whose time budget is high. In this paper, two surrogate models, i.e., Kriging and artificial neural networks (ANN), were adopted for the performance prediction of a twin-VAWT with a close staggered arrangement. Turbines’ pitch angles and their averaged torques at the best tip speed ratio were taken as the input and output, respectively. The numerical study shows that both Kriging and ANN models can provide satisfactory predictions using only 22.45% of CFD observations as training set, and the R2 values for both upstream and downstream turbine models reach more than 0.99 and 0.98, respectively. Among them, the Kriging-based models appear to be more time-efficient and stable than those based on ANN under the moderate dataset in hand. In addition, the current sampling strategy was tested to be modest and robust through sensitivity analysis.}
+}

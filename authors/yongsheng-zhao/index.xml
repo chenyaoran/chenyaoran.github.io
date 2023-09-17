@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yongsheng Zhao | 陈耀然</title>
+    <link>https://example.com/authors/yongsheng-zhao/</link>
+      <atom:link href="https://example.com/authors/yongsheng-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yongsheng Zhao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Yongsheng Zhao</title>
+      <link>https://example.com/authors/yongsheng-zhao/</link>
+    </image>
+    
+    <item>
+      <title>Comparative analysis of bent and basic winglets on performance improvement of horizontal axis wind turbines</title>
+      <link>https://example.com/publication/admin/2023/018-2023-egy-zzh-hzl/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2023/018-2023-egy-zzh-hzl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of wake interference between two tandem offshore floating vertical-axis wind turbines: Effect of platform pitch motion</title>
+      <link>https://example.com/publication/admin/2022/013-2022-ecm-klm-hzl/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2022/013-2022-ecm-klm-hzl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigation of pitch angles on the aerodynamics of twin-VAWT under staggered arrangement</title>
+      <link>https://example.com/publication/admin/2022/012-2022-oe-cyr-hzl/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2022/012-2022-oe-cyr-hzl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The mean wake model and its novel characteristic parameter of H-rotor VAWTs based on random forest method</title>
+      <link>https://example.com/publication/admin/2022/011-2022-egy-dzk-zd/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2022/011-2022-egy-dzk-zd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2-D regional short-term wind speed forecast based on CNN-LSTM deep learning model</title>
+      <link>https://example.com/publication/admin/2021/009-2021-ecm-cyr-hzl/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2021/009-2021-ecm-cyr-hzl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wind-capture-accelerate device for performance improvement of vertical-axis wind turbines: External diffuser system</title>
+      <link>https://example.com/publication/admin/2022/010-2022-egy-klm-zd/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2022/010-2022-egy-klm-zd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Framework of airfoil max lift-to-drag ratio prediction using hybrid feature mining and Gaussian process regression</title>
+      <link>https://example.com/publication/admin/2021/008-2021-ecm-cyr-hzl/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2021/008-2021-ecm-cyr-hzl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aerodynamic performance assessment of φ-type vertical axis wind turbine under pitch motion</title>
+      <link>https://example.com/publication/admin/2021/007-2021-egy-sj-hzl/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2021/007-2021-egy-sj-hzl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Short-term wind speed predicting framework based on EEMD-GA-LSTM method under large scaled wind history</title>
+      <link>https://example.com/publication/admin/2021/006-2021-ecm-cyr-hzl/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2021/006-2021-ecm-cyr-hzl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A shape optimization of ϕ-shape Darrieus wind turbine under a given range of inlet wind speed</title>
+      <link>https://example.com/publication/admin/2020/005-2020-rene-cyr-hzl/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2020/005-2020-rene-cyr-hzl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigation of V-shaped blade for the performance improvement of vertical axis wind turbines</title>
+      <link>https://example.com/publication/admin/2020/004-2020-apen-sj-hzl/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2020/004-2020-apen-sj-hzl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-dimensional wake transition in the flow over four square cylinders at low Reynolds numbers</title>
+      <link>https://example.com/publication/admin/2020/003-2020-aip-zyh-hzl/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2020/003-2020-aip-zyh-hzl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flow characteristics and dynamic responses of a parked straight‐bladed vertical axis wind turbine</title>
+      <link>https://example.com/publication/admin/2019/002-2019-ese-klm-hzl/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2019/002-2019-ese-klm-hzl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

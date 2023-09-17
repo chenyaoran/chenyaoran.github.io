@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dan Zhang | 陈耀然</title>
+    <link>https://example.com/authors/dan-zhang/</link>
+      <atom:link href="https://example.com/authors/dan-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dan Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Dan Zhang</title>
+      <link>https://example.com/authors/dan-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Trajectory planning for unmanned surface vehicles in multi-ship encounter situations</title>
+      <link>https://example.com/publication/team/2023/2023_ljj_zd/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/team/2023/2023_ljj_zd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent fault diagnosis for triboelectric nanogenerators via a novel deep learning framework</title>
+      <link>https://example.com/publication/team/2023/2023_wh_xax_esa/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/team/2023/2023_wh_xax_esa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A data driven method for multi-step prediction of ship roll motion in high sea states</title>
+      <link>https://example.com/publication/team/2023/zhang2023114230/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/team/2023/zhang2023114230/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of flow field design on PEMFC</title>
+      <link>https://example.com/publication/team/2023/2023_sarah_zd_jpme/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/team/2023/2023_sarah_zd_jpme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surrogate models for twin-VAWT performance based on Kriging and artificial neural networks</title>
+      <link>https://example.com/publication/admin/2023/015-2023-oe-cyr-zd/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2023/015-2023-oe-cyr-zd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation of low-frequency vortex-induced resonance triboelectric nanogenerator in low-velocity fluid</title>
+      <link>https://example.com/publication/team/2023/2023_otsmd_lzj_lxw/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/team/2023/2023_otsmd_lzj_lxw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement learning-based close formation control for underactuated surface vehicle with prescribed performance and time-varying state constraints</title>
+      <link>https://example.com/publication/team/2022/2022_chz_zd/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/team/2022/2022_chz_zd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trajectory tracking of underactuated unmanned surface vehicle with uncertain external disturbances and model parameters</title>
+      <link>https://example.com/publication/team/2021/2021_ijvd_ljj_zd/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/team/2021/2021_ijvd_ljj_zd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

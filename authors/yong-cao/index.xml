@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yong Cao | 陈耀然</title>
+    <link>https://example.com/authors/yong-cao/</link>
+      <atom:link href="https://example.com/authors/yong-cao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yong Cao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Yong Cao</title>
+      <link>https://example.com/authors/yong-cao/</link>
+    </image>
+    
+    <item>
+      <title>Strategy for mitigating wake interference between offshore vertical-axis wind turbines: Evaluation of vertically staggered arrangement</title>
+      <link>https://example.com/publication/admin/2023/020_2023-apen-klm-zd/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2023/020_2023-apen-klm-zd/</guid>
+      <description>&lt;!-- url_code = &#34;code.zip&#34;. --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Surrogate models for twin-VAWT performance based on Kriging and artificial neural networks</title>
+      <link>https://example.com/publication/admin/2023/015-2023-oe-cyr-zd/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2023/015-2023-oe-cyr-zd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic investigation of effect of rotor solidity on vertical-axis wind turbines: Power performance and aerodynamics analysis</title>
+      <link>https://example.com/publication/admin/2023/014-2023-jweia-klm-zd/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2023/014-2023-jweia-klm-zd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigation of pitch angles on the aerodynamics of twin-VAWT under staggered arrangement</title>
+      <link>https://example.com/publication/admin/2022/012-2022-oe-cyr-hzl/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2022/012-2022-oe-cyr-hzl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The mean wake model and its novel characteristic parameter of H-rotor VAWTs based on random forest method</title>
+      <link>https://example.com/publication/admin/2022/011-2022-egy-dzk-zd/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2022/011-2022-egy-dzk-zd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

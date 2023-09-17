@@ -1,0 +1,13 @@
+@article{CHEN2021114339,
+title = {Framework of airfoil max lift-to-drag ratio prediction using hybrid feature mining and Gaussian process regression},
+journal = {Energy Conversion and Management},
+volume = {243},
+pages = {114339},
+year = {2021},
+issn = {0196-8904},
+doi = {https://doi.org/10.1016/j.enconman.2021.114339},
+url = {https://www.sciencedirect.com/science/article/pii/S019689042100515X},
+author = {Yaoran Chen and Zhikun Dong and Jie Su and Yan Wang and Zhaolong Han and Dai Zhou and Yongsheng Zhao and Yan Bao},
+keywords = {Airfoil, Max lift-to-drag ratio, Gaussian process regression, Feature pool, Feature selection},
+abstract = {The maximum lift-to-drag coefficient of an airfoil directly affects the aerodynamic performance of wind turbine. Machine learning methods are known for being really effective in helping to predict this parameter in a faster and more accurate way. So far, the majority of related studies have focused on the use of artificial neural networks to make this prediction, but this model has issues with its poor interpretation and the confidence level of its results was unclear. In this paper, a novel framework is proposed, involving the Gaussian process regression and a hybrid feature mining process. The aim is to use the new framework to evaluate the maximum lift-to-drag ratio of given airfoils under a turbulent flow condition, where the Reynolds number is around 100,000. The feature mining process here designed contains a hybrid feature pool that comprises various geometric characters, and a hybrid feature selector that can assist the prediction performance and make it better. Based on the airfoil dataset of the University of Illinois at Urbana-Champaign that contains a total of 1432 profiles, a comparative analysis was conducted. The results showed that the current framework can provide a more accurate estimate than parallel models in both single-point and interval aspects of view. Noticeably, the model reached an overall precision of 95.2% and 94.1% on training and testing sets, respectively. Moreover, the simplicity and the confidence reference from the model output were further illustrated with a case study, which also verified that how it can serve real engineering application.}
+}

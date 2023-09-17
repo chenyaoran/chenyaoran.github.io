@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: 2023年9月14日 --><html lang="zh-Hans" >
+<!-- Last Published: 2023年9月17日 --><html lang="zh-cn" >
 
 
 <head>
@@ -239,6 +239,45 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VZENGRW3ZW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-VZENGRW3ZW', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
 
 
 
@@ -280,7 +319,7 @@
 
 
 
-<link rel="alternate" hreflang="zh-Hans" href="https://example.com/publication/admin/2023/017-2023-seta-hzl-zd/" />
+<link rel="alternate" hreflang="zh-cn" href="https://example.com/publication/admin/2023/017-2023-seta-hzl-zd/" />
 <link rel="canonical" href="https://example.com/publication/admin/2023/017-2023-seta-hzl-zd/" />
 
 
@@ -312,14 +351,11 @@
 
 
 <meta property="twitter:card" content="summary" />
-
-  <meta property="twitter:site" content="@wowchemy" />
-  <meta property="twitter:creator" content="@wowchemy" />
 <meta property="twitter:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
 <meta property="og:site_name" content="陈耀然" />
 <meta property="og:url" content="https://example.com/publication/admin/2023/017-2023-seta-hzl-zd/" />
 <meta property="og:title" content="Aerodynamic performance optimization of vertical axis wind turbine with straight blades based on synergic control of pitch and flap | 陈耀然" />
-<meta property="og:description" content="Low power efficiency is a critical reason that restricts the potential application of the vertical axis wind turbine (VAWT) in offshore engineering. Hence, efficiency enhancement is an essential topic for the VAWT design. This paper attempts to propose an improved active control strategy and a novel blade structure with a trailing-edge flap for H-type VAWT to improve the power outputs at different tip speed ratios (TSRs). The orthogonal experiment design (OED) method was applied to optimize the motion of pitch and flap at low and moderate TSRs. Subsequently, the output characteristics, including the coefficients of power, torque, tangential force, and thrust of the optimized pitch-flap (P-F) model and three other models, namely the base model, the pitch-only (P-O) model, and the flap-only (F-O) model, were compared. Besides, the flow structures and static pressure distribution on the blade surface were studied to reveal the mechanism of power increase. It was found that the synergic motion of pitch and flap could effectively suppress the flow separation and delay the dynamic stall around blade. The result indicated that enhancement of the P-F model in torque coefficient was over 130% and 60% at low and moderate TSRs compared to the base model. In addition, the synergic motion of pitch and flap was found able to reduce the load fluctuation of the VAWT. The improved active control strategy and the blade structure with a trailing-edge flap may be helpful for the potential application of the H-type VAWT in offshore engineering." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="zh-Hans" />
+<meta property="og:description" content="Low power efficiency is a critical reason that restricts the potential application of the vertical axis wind turbine (VAWT) in offshore engineering. Hence, efficiency enhancement is an essential topic for the VAWT design. This paper attempts to propose an improved active control strategy and a novel blade structure with a trailing-edge flap for H-type VAWT to improve the power outputs at different tip speed ratios (TSRs). The orthogonal experiment design (OED) method was applied to optimize the motion of pitch and flap at low and moderate TSRs. Subsequently, the output characteristics, including the coefficients of power, torque, tangential force, and thrust of the optimized pitch-flap (P-F) model and three other models, namely the base model, the pitch-only (P-O) model, and the flap-only (F-O) model, were compared. Besides, the flow structures and static pressure distribution on the blade surface were studied to reveal the mechanism of power increase. It was found that the synergic motion of pitch and flap could effectively suppress the flow separation and delay the dynamic stall around blade. The result indicated that enhancement of the P-F model in torque coefficient was over 130% and 60% at low and moderate TSRs compared to the base model. In addition, the synergic motion of pitch and flap was found able to reduce the load fluctuation of the VAWT. The improved active control strategy and the blade structure with a trailing-edge flap may be helpful for the potential application of the H-type VAWT in offshore engineering." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="zh-cn" />
 
   
     <meta
@@ -834,14 +870,14 @@
     
 
   <span >
-      Zhaolong Han</span>, <span >
-      Hao Chen</span>, <span class="author-highlighted">
-      Yaoran Chen</span>, <span >
-      Jie Su</span>, <span >
-      Dai Zhou</span>, <span >
-      Hongbo Zhu</span>, <span >
-      Tangbin Xia</span>, <span >
-      Jiahuang Tu</span>
+      <a href="/authors/zhaolong-han/">Zhaolong Han</a></span>, <span >
+      <a href="/authors/hao-chen/">Hao Chen</a></span>, <span class="author-highlighted">
+      <a href="/authors/admin/">Yaoran Chen</a></span>, <span >
+      <a href="/authors/jie-su/">Jie Su</a></span>, <span >
+      <a href="/authors/dai-zhou/">Dai Zhou</a></span>, <span >
+      <a href="/authors/hongbo-zhu/">Hongbo Zhu</a></span>, <span >
+      <a href="/authors/tangbin-xia/">Tangbin Xia</a></span>, <span >
+      <a href="/authors/jiahuang-tu/">Jiahuang Tu</a></span>
   </div>
   
   
@@ -866,6 +902,10 @@
   
 
   
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/%E4%B8%AD%E7%A7%91%E9%99%A2%E4%BA%8C%E5%8C%BA/">中科院二区</a>, <a href="/category/sustainable-energy-technologies-and-assessments/">Sustainable Energy Technologies and Assessments</a></span>
   
 
 </div>
@@ -896,11 +936,6 @@
 
 
 
-<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/publication/admin/2023/017-2023-seta-hzl-zd/cite.bib">
-  引用
-</a>
-
 
 
 
@@ -917,6 +952,40 @@
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="/category/%e4%b8%ad%e7%a7%91%e9%99%a2%e4%ba%8c%e5%8c%ba/" >
+    中科院二区</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="/category/sustainable-energy-technologies-and-assessments/" >
+    Sustainable Energy Technologies and Assessments</a>
 
 
 </div>
@@ -980,8 +1049,6 @@
 <div class="article-tags">
   
   <a class="badge badge-light" href="/tag/journal/">Journal</a>
-  
-  <a class="badge badge-light" href="/tag/sustainable-energy-technologies-and-assessments/">Sustainable Energy Technologies and Assessments</a>
   
   <a class="badge badge-light" href="/tag/cfd/">CFD</a>
   

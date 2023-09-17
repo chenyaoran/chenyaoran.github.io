@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: 2023年9月14日 --><html lang="zh-Hans" >
+<!-- Last Published: 2023年9月17日 --><html lang="zh-cn" >
 
 
 <head>
@@ -239,6 +239,45 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VZENGRW3ZW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-VZENGRW3ZW', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
 
 
 
@@ -276,11 +315,11 @@
 
   
 
-<meta name="description" content="A highly-customizable Hugo academic resume theme powered by Wowchemy website builder." />
+<meta name="description" content="Researcher of Artificial Intelligence" />
 
 
 
-<link rel="alternate" hreflang="zh-Hans" href="https://example.com/tag/cfd/" />
+<link rel="alternate" hreflang="zh-cn" href="https://example.com/tag/cfd/" />
 <link rel="canonical" href="https://example.com/tag/cfd/" />
 
 
@@ -312,14 +351,11 @@
 
 
 <meta property="twitter:card" content="summary" />
-
-  <meta property="twitter:site" content="@wowchemy" />
-  <meta property="twitter:creator" content="@wowchemy" />
 <meta property="twitter:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
 <meta property="og:site_name" content="陈耀然" />
 <meta property="og:url" content="https://example.com/tag/cfd/" />
 <meta property="og:title" content="CFD | 陈耀然" />
-<meta property="og:description" content="A highly-customizable Hugo academic resume theme powered by Wowchemy website builder." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="zh-Hans" />
+<meta property="og:description" content="Researcher of Artificial Intelligence" /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="zh-cn" />
 
   
     <meta property="og:updated_time" content="2023-12-01T00:00:00&#43;00:00" />
@@ -820,15 +856,15 @@
         
 
   <span >
-      Yuhang Zhang</span>, <span >
-      Rui Wang</span>, <span class="author-highlighted">
-      Yaoran Chen</span>, <span >
-      Yan Bao</span>, <span >
-      Zhaolong Han</span>, <span >
-      Dai Zhou</span>, <span >
-      Huan Ping</span>, <span >
-      Shixiao Fu</span>, <span >
-      Yongsheng Zhao</span>
+      <a href="/authors/yuhang-zhang/">Yuhang Zhang</a></span>, <span >
+      <a href="/authors/rui-wang/">Rui Wang</a></span>, <span class="author-highlighted">
+      <a href="/authors/admin/">Yaoran Chen</a></span>, <span >
+      <a href="/authors/yan-bao/">Yan Bao</a></span>, <span >
+      <a href="/authors/zhaolong-han/">Zhaolong Han</a></span>, <span >
+      <a href="/authors/dai-zhou/">Dai Zhou</a></span>, <span >
+      <a href="/authors/huan-ping/">Huan Ping</a></span>, <span >
+      <a href="/authors/shixiao-fu/">Shixiao Fu</a></span>, <span >
+      <a href="/authors/yongsheng-zhao/">Yongsheng Zhao</a></span>
       </div>
       
     </div>
@@ -854,11 +890,6 @@
 
 
 
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/admin/2020/003-2020-aip-zyh-hzl/cite.bib">
-  引用
-</a>
-
 
 
 
@@ -875,6 +906,40 @@
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/%e4%b8%ad%e7%a7%91%e9%99%a2%e5%9b%9b%e5%8c%ba/" >
+    中科院四区</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/aip-advances/" >
+    AIP Advances</a>
 
 
     </div>
@@ -931,14 +996,14 @@
         
 
   <span >
-      Limin Kuang</span>, <span >
-      Jie Su</span>, <span class="author-highlighted">
-      Yaoran Chen</span>, <span >
-      Zhaolong Han</span>, <span >
-      Dai Zhou</span>, <span >
-      Yongsheng Zhao</span>, <span >
-      Zhiyu Jiang</span>, <span >
-      Yan Bao</span>
+      <a href="/authors/limin-kuang/">Limin Kuang</a></span>, <span >
+      <a href="/authors/jie-su/">Jie Su</a></span>, <span class="author-highlighted">
+      <a href="/authors/admin/">Yaoran Chen</a></span>, <span >
+      <a href="/authors/zhaolong-han/">Zhaolong Han</a></span>, <span >
+      <a href="/authors/dai-zhou/">Dai Zhou</a></span>, <span >
+      <a href="/authors/yongsheng-zhao/">Yongsheng Zhao</a></span>, <span >
+      <a href="/authors/zhiyu-jiang/">Zhiyu Jiang</a></span>, <span >
+      <a href="/authors/yan-bao/">Yan Bao</a></span>
       </div>
       
     </div>
@@ -964,11 +1029,6 @@
 
 
 
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/admin/2019/002-2019-ese-klm-hzl/cite.bib">
-  引用
-</a>
-
 
 
 
@@ -985,6 +1045,40 @@
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/%e4%b8%ad%e7%a7%91%e9%99%a2%e4%b8%89%e5%8c%ba/" >
+    中科院三区</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/energy-science-engineering/" >
+    Energy Science & Engineering</a>
 
 
     </div>
@@ -1041,12 +1135,12 @@
         
 
   <span >
-      Hang Lei</span>, <span >
-      Jie Su</span>, <span >
-      Yan Bao</span>, <span class="author-highlighted">
-      Yaoran Chen</span>, <span >
-      Zhaolong Han</span>, <span >
-      Dai Zhou</span>
+      <a href="/authors/hang-lei/">Hang Lei</a></span>, <span >
+      <a href="/authors/jie-su/">Jie Su</a></span>, <span >
+      <a href="/authors/yan-bao/">Yan Bao</a></span>, <span class="author-highlighted">
+      <a href="/authors/admin/">Yaoran Chen</a></span>, <span >
+      <a href="/authors/zhaolong-han/">Zhaolong Han</a></span>, <span >
+      <a href="/authors/dai-zhou/">Dai Zhou</a></span>
       </div>
       
     </div>
@@ -1072,11 +1166,6 @@
 
 
 
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/admin/2019/001-2019-egy-lh-hzl/cite.bib">
-  引用
-</a>
-
 
 
 
@@ -1093,6 +1182,40 @@
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/%e4%b8%ad%e7%a7%91%e9%99%a2%e4%b8%80%e5%8c%ba/" >
+    中科院一区</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/energy/" >
+    Energy</a>
 
 
     </div>

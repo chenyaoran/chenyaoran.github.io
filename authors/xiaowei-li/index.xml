@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaowei Li | 陈耀然</title>
+    <link>https://example.com/authors/xiaowei-li/</link>
+      <atom:link href="https://example.com/authors/xiaowei-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaowei Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Xiaowei Li</title>
+      <link>https://example.com/authors/xiaowei-li/</link>
+    </image>
+    
+    <item>
+      <title>Surrogate models for twin-VAWT performance based on Kriging and artificial neural networks</title>
+      <link>https://example.com/publication/admin/2023/015-2023-oe-cyr-zd/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2023/015-2023-oe-cyr-zd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation of low-frequency vortex-induced resonance triboelectric nanogenerator in low-velocity fluid</title>
+      <link>https://example.com/publication/team/2023/2023_otsmd_lzj_lxw/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/team/2023/2023_otsmd_lzj_lxw/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

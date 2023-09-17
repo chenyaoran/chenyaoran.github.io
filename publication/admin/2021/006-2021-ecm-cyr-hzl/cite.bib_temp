@@ -1,0 +1,13 @@
+@article{CHEN2021113559,
+title = {Short-term wind speed predicting framework based on EEMD-GA-LSTM method under large scaled wind history},
+journal = {Energy Conversion and Management},
+volume = {227},
+pages = {113559},
+year = {2021},
+issn = {0196-8904},
+doi = {https://doi.org/10.1016/j.enconman.2020.113559},
+url = {https://www.sciencedirect.com/science/article/pii/S0196890420310888},
+author = {Yaoran Chen and Zhikun Dong and Yan Wang and Jie Su and Zhaolong Han and Dai Zhou and Kai Zhang and Yongsheng Zhao and Yan Bao},
+keywords = {Wind speed prediction, Extensive wind history, Hybrid machine learning, Data-mining, EEMD-GA-LSTM},
+abstract = {Accurate short-term wind speed prediction is of great significance for early warning and regulation of wind farms. At present, the scale of wind speed time-history data is increasing, and its time resolution is also becoming higher. Traditional machine learning models cannot effectively capture and utilize nonlinear features from the large scaled dataset and this, not only increases the difficulty of model building, but also reduces the prediction accuracy. To overcome such challenges, a machine learning based framework involving data-mining method was proposed in this paper. To begin with, a powerful signal decomposition technique (ensemble empirical mode decomposition) was used to divide the original wind sequence into several intrinsic mode functions to form a potential feature set. Then, a more appropriate sub-feature set together with the corresponding machine learning model were automatically generated through an iteration process. Such process was constructed through a coupled algorithm using the binary coded searching method known as the genetic algorithm and the advanced recurrent neural network with long short term memory unit. The analytical results show that, when compared with the traditional mainstream models, the strategy of using the sequences provided by the signal decomposition technology as the input features can significantly improve the prediction accuracy. On the other hand, faced with the high-dimensional feature set generated from the big data, the selected sub-feature set can not only perform a large dimension reduction, but also further improve the prediction accuracy up to 28.33% in terms of different kinds of evaluation criteria. Therefore, there is a potential application of the proposed method on more accurate short-term wind speed prediction under a considerable dataset of wind history.}
+}

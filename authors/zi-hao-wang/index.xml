@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zi-Hao Wang | 陈耀然</title>
+    <link>https://example.com/authors/zi-hao-wang/</link>
+      <atom:link href="https://example.com/authors/zi-hao-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zi-Hao Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Zi-Hao Wang</title>
+      <link>https://example.com/authors/zi-hao-wang/</link>
+    </image>
+    
+    <item>
+      <title>A data driven method for multi-step prediction of ship roll motion in high sea states</title>
+      <link>https://example.com/publication/team/2023/zhang2023114230/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/team/2023/zhang2023114230/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

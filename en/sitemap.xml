@@ -4,6 +4,16 @@
   <url>
     <loc>https://example.com/en/authors/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://example.com/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://example.com/en/authors/"
+                />
   </url><url>
     <loc>https://example.com/en/categories/</loc>
     <changefreq>weekly</changefreq>

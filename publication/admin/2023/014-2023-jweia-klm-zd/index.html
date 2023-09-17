@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: 2023年9月14日 --><html lang="zh-Hans" >
+<!-- Last Published: 2023年9月17日 --><html lang="zh-cn" >
 
 
 <head>
@@ -239,6 +239,45 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VZENGRW3ZW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-VZENGRW3ZW', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
 
 
 
@@ -280,7 +319,7 @@
 
 
 
-<link rel="alternate" hreflang="zh-Hans" href="https://example.com/publication/admin/2023/014-2023-jweia-klm-zd/" />
+<link rel="alternate" hreflang="zh-cn" href="https://example.com/publication/admin/2023/014-2023-jweia-klm-zd/" />
 <link rel="canonical" href="https://example.com/publication/admin/2023/014-2023-jweia-klm-zd/" />
 
 
@@ -312,14 +351,11 @@
 
 
 <meta property="twitter:card" content="summary" />
-
-  <meta property="twitter:site" content="@wowchemy" />
-  <meta property="twitter:creator" content="@wowchemy" />
 <meta property="twitter:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
 <meta property="og:site_name" content="陈耀然" />
 <meta property="og:url" content="https://example.com/publication/admin/2023/014-2023-jweia-klm-zd/" />
 <meta property="og:title" content="Systematic investigation of effect of rotor solidity on vertical-axis wind turbines: Power performance and aerodynamics analysis | 陈耀然" />
-<meta property="og:description" content="Small-scale vertical-axis wind turbines (VAWTs) are receiving growing interest for applications in urban areas. However, the unsatisfactory power performance, mainly induced by the complex blade aerodynamics, restricts their development. Optimizing the turbine geometry is expected to improve the blade aerodynamics. In the present study, the effect of rotor solidity on the power performance and aerodynamics of VAWTs is systematically investigated using high-fidelity improved delayed detached-eddy simulations. A wide range of rotor solidity from 0.12 to 0.6 is studied for VAWTs with different numbers of blades, i.e., two- and three-bladed VAWTs. Also, different rotor diameters (0.5 m–2 m), covering VAWTs from domestic to building integration, are compared to explore the scale effect. In addition, the Reynolds number effect induced by the change of turbine geometry is considered and its impact on the solidity effect is elucidated. The results show that a low to moderate rotor solidity (e.g., lower than 0.3) allows the VAWT to achieve appreciable peak power performance. When the inflow velocity is fixed, for a given relatively low rotor solidity (e.g., 0.12), the two-bladed design is expected to achieve higher peak turbine power, while the three-bladed design is more advantageous when the rotor solidity is relatively high (e.g., 0.36). For a given rotor solidity, VAWTs with smaller rotor diameters perform relatively better due to the diminished tip loss effect. The effects of number of blades and rotor diameter are strongly affected by the variation of the chord-based Reynolds number. This study would support the optimal design of urban VAWTs." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="zh-Hans" />
+<meta property="og:description" content="Small-scale vertical-axis wind turbines (VAWTs) are receiving growing interest for applications in urban areas. However, the unsatisfactory power performance, mainly induced by the complex blade aerodynamics, restricts their development. Optimizing the turbine geometry is expected to improve the blade aerodynamics. In the present study, the effect of rotor solidity on the power performance and aerodynamics of VAWTs is systematically investigated using high-fidelity improved delayed detached-eddy simulations. A wide range of rotor solidity from 0.12 to 0.6 is studied for VAWTs with different numbers of blades, i.e., two- and three-bladed VAWTs. Also, different rotor diameters (0.5 m–2 m), covering VAWTs from domestic to building integration, are compared to explore the scale effect. In addition, the Reynolds number effect induced by the change of turbine geometry is considered and its impact on the solidity effect is elucidated. The results show that a low to moderate rotor solidity (e.g., lower than 0.3) allows the VAWT to achieve appreciable peak power performance. When the inflow velocity is fixed, for a given relatively low rotor solidity (e.g., 0.12), the two-bladed design is expected to achieve higher peak turbine power, while the three-bladed design is more advantageous when the rotor solidity is relatively high (e.g., 0.36). For a given rotor solidity, VAWTs with smaller rotor diameters perform relatively better due to the diminished tip loss effect. The effects of number of blades and rotor diameter are strongly affected by the variation of the chord-based Reynolds number. This study would support the optimal design of urban VAWTs." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="zh-cn" />
 
   
     <meta
@@ -834,18 +870,18 @@
     
 
   <span >
-      Limin Kuang</span>, <span >
-      Rui Zhang</span>, <span >
-      Jie Su</span>, <span >
-      Yixiao Shao</span>, <span >
-      Kai Zhang</span>, <span class="author-highlighted">
-      Yaoran Chen</span>, <span >
-      Zhihao Zhang</span>, <span >
-      Yu Tu</span>, <span >
-      Dai Zhou</span>, <span >
-      Zhaolong Han</span>, <span >
-      Yan Bao</span>, <span >
-      Yong Cao</span>
+      <a href="/authors/limin-kuang/">Limin Kuang</a></span>, <span >
+      <a href="/authors/rui-zhang/">Rui Zhang</a></span>, <span >
+      <a href="/authors/jie-su/">Jie Su</a></span>, <span >
+      <a href="/authors/yixiao-shao/">Yixiao Shao</a></span>, <span >
+      <a href="/authors/kai-zhang/">Kai Zhang</a></span>, <span class="author-highlighted">
+      <a href="/authors/admin/">Yaoran Chen</a></span>, <span >
+      <a href="/authors/zhihao-zhang/">Zhihao Zhang</a></span>, <span >
+      <a href="/authors/yu-tu/">Yu Tu</a></span>, <span >
+      <a href="/authors/dai-zhou/">Dai Zhou</a></span>, <span >
+      <a href="/authors/zhaolong-han/">Zhaolong Han</a></span>, <span >
+      <a href="/authors/yan-bao/">Yan Bao</a></span>, <span >
+      <a href="/authors/yong-cao/">Yong Cao</a></span>
   </div>
   
   
@@ -870,6 +906,10 @@
   
 
   
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/%E4%B8%AD%E7%A7%91%E9%99%A2%E4%BA%8C%E5%8C%BA/">中科院二区</a>, <a href="/category/journal-of-wind-engineering-and-industrial-aerodynamics/">Journal of Wind Engineering and Industrial Aerodynamics</a></span>
   
 
 </div>
@@ -900,11 +940,6 @@
 
 
 
-<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/publication/admin/2023/014-2023-jweia-klm-zd/cite.bib">
-  引用
-</a>
-
 
 
 
@@ -921,6 +956,40 @@
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="/category/%e4%b8%ad%e7%a7%91%e9%99%a2%e4%ba%8c%e5%8c%ba/" >
+    中科院二区</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="/category/journal-of-wind-engineering-and-industrial-aerodynamics/" >
+    Journal of Wind Engineering and Industrial Aerodynamics</a>
 
 
 </div>
@@ -984,8 +1053,6 @@
 <div class="article-tags">
   
   <a class="badge badge-light" href="/tag/journal/">Journal</a>
-  
-  <a class="badge badge-light" href="/tag/journal-of-wind-engineering-and-industrial-aerodynamics/">Journal of Wind Engineering and Industrial Aerodynamics</a>
   
   <a class="badge badge-light" href="/tag/vawt/">VAWT</a>
   

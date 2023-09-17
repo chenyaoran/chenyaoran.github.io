@@ -5,12 +5,20 @@
     <link>https://example.com/category/%E4%B8%AD%E7%A7%91%E9%99%A2%E4%B8%89%E5%8C%BA/</link>
       <atom:link href="https://example.com/category/%E4%B8%AD%E7%A7%91%E9%99%A2%E4%B8%89%E5%8C%BA/index.xml" rel="self" type="application/rss+xml" />
     <description>中科院三区</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Mon, 13 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>中科院三区</title>
       <link>https://example.com/category/%E4%B8%AD%E7%A7%91%E9%99%A2%E4%B8%89%E5%8C%BA/</link>
     </image>
+    
+    <item>
+      <title>Solid-Liquid Triboelectric Nanogenerator Based on Vortex-Induced Resonance</title>
+      <link>https://example.com/publication/team/2023/nano13061036/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/team/2023/nano13061036/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Flow characteristics and dynamic responses of a parked straight‐bladed vertical axis wind turbine</title>

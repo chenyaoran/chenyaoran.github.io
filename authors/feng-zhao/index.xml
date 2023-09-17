@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feng Zhao | 陈耀然</title>
+    <link>https://example.com/authors/feng-zhao/</link>
+      <atom:link href="https://example.com/authors/feng-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Feng Zhao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Sat, 15 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Feng Zhao</title>
+      <link>https://example.com/authors/feng-zhao/</link>
+    </image>
+    
+    <item>
+      <title>The mean wake model and its novel characteristic parameter of H-rotor VAWTs based on random forest method</title>
+      <link>https://example.com/publication/admin/2022/011-2022-egy-dzk-zd/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2022/011-2022-egy-dzk-zd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

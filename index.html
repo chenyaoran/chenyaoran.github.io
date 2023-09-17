@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: 2023年9月14日 --><html lang="zh-Hans" >
+<!-- Last Published: 2023年9月17日 --><html lang="zh-cn" >
 
 
 <head>
@@ -249,6 +249,45 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VZENGRW3ZW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-VZENGRW3ZW', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
 
 
 
@@ -286,13 +325,11 @@
 
   
 
-<meta name="description" content="A highly-customizable Hugo academic resume theme powered by Wowchemy website builder." />
+<meta name="description" content="Researcher of Artificial Intelligence" />
 
 
 
-  <link rel="alternate" hreflang="en" href="https://example.com/en/" />
-
-<link rel="alternate" hreflang="zh-Hans" href="https://example.com/" />
+<link rel="alternate" hreflang="zh-cn" href="https://example.com/" />
 <link rel="canonical" href="https://example.com/" />
 
 
@@ -324,14 +361,11 @@
 
 
 <meta property="twitter:card" content="summary" />
-
-  <meta property="twitter:site" content="@wowchemy" />
-  <meta property="twitter:creator" content="@wowchemy" />
 <meta property="twitter:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
 <meta property="og:site_name" content="陈耀然" />
 <meta property="og:url" content="https://example.com/" />
 <meta property="og:title" content="个人主页 | 陈耀然" />
-<meta property="og:description" content="A highly-customizable Hugo academic resume theme powered by Wowchemy website builder." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="zh-Hans" />
+<meta property="og:description" content="Researcher of Artificial Intelligence" /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="zh-cn" />
 
   
     <meta property="og:updated_time" content="2022-10-24T00:00:00&#43;00:00" />
@@ -751,22 +785,6 @@
 
         
         
-        <li class="nav-item dropdown i18n-dropdown">
-          <a href="#" class="nav-link " data-toggle="dropdown"
-             aria-haspopup="true" aria-label="语言">
-            <i class="fas fa-globe mr-1" aria-hidden="true"></i></a>
-          <div class="dropdown-menu">
-            <div class="dropdown-item dropdown-item-active">
-              <span>中文 (简体)</span>
-            </div>
-            
-            <a class="dropdown-item" href="https://example.com/en/" data-target="/en/">
-              <span>English</span>
-            </a>
-            
-          </div>
-        </li>
-        
 
       </ul>
 
@@ -978,7 +996,14 @@
 
     
     <div class="article-style">
-      <p style="text-align: justify;">现任上海大学-未来技术学院 特聘副研究员。 我所研究的专业领域涉及计算流体动力学（Computational Fluid Dynamics）、人工智能（Artificial Intelligence）以及它们的交叉方向。目前，我的研究以海洋为应用背景，包含海洋环境信息、海上新能源、海上无人系统等。如果您有兴趣与我交流，可以发电子邮件给我：ychen169@shu.edu.cn</p>
+      <p>现任上海大学-未来技术学院 特聘副研究员。 我所研究的专业领域涉及计算流体动力学（Computational Fluid Dynamics）、人工智能（Artificial Intelligence）以及它们的交叉方向。目前，我的研究以海洋为应用背景，包含海洋环境信息、海上新能源、海上无人系统等。如果您有兴趣与我交流，可以发电子邮件给我：ychen169@shu.edu.cn</p>
+<p>我平时的爱好包括：</p>
+<ul style="text-align: justify;">
+<li>游泳和羽毛球（以锻炼身体为主）</li>
+<li>电子游戏（lolm上海前百艾希）</li>
+<li>各类桌游（例如狼人杀和三国杀）</li>
+<li>川湘西北菜（吃和做）</li>
+</ul>
 
     </div>
     
@@ -987,27 +1012,22 @@
 
       
       <div class="col-md-5">
-        <div class="section-subheading">兴趣爱好</div>
+        <div class="section-subheading">研究方向</div>
         <ul class="ul-interests fa-ul mb-0">
           
           <li>
             <i class="fa-li fa-solid fa-book"></i>
-            游泳和羽毛球（以锻炼身体为主）
+            智能海洋环境信息
           </li>
           
           <li>
             <i class="fa-li fa-solid fa-book"></i>
-            电子游戏（lolm上海前百艾希）
+            计算流体动力学数值仿真
           </li>
           
           <li>
             <i class="fa-li fa-solid fa-book"></i>
-            各类桌游（例如狼人杀和三国杀）
-          </li>
-          
-          <li>
-            <i class="fa-li fa-solid fa-book"></i>
-            川湘西北菜（吃和做）
+            海洋工程代理模型及智能优化
           </li>
           
         </ul>
@@ -1390,16 +1410,16 @@
     
 
   <span >
-      Limin Kuang</span>, <span >
-      Hiroshi Katsuchi</span>, <span >
-      Dai Zhou</span>, <span class="author-highlighted">
-      Yaoran Chen</span>, <span >
-      Zhaolong Han</span>, <span >
-      Kai Zhang</span>, <span >
-      Jiaqi Wang</span>, <span >
-      Yan Bao</span>, <span >
-      Yong Cao</span>, <span >
-      Yijie Liu</span>
+      <a href="/authors/limin-kuang/">Limin Kuang</a></span>, <span >
+      <a href="/authors/hiroshi-katsuchi/">Hiroshi Katsuchi</a></span>, <span >
+      <a href="/authors/dai-zhou/">Dai Zhou</a></span>, <span class="author-highlighted">
+      <a href="/authors/admin/">Yaoran Chen</a></span>, <span >
+      <a href="/authors/zhaolong-han/">Zhaolong Han</a></span>, <span >
+      <a href="/authors/kai-zhang/">Kai Zhang</a></span>, <span >
+      <a href="/authors/jiaqi-wang/">Jiaqi Wang</a></span>, <span >
+      <a href="/authors/yan-bao/">Yan Bao</a></span>, <span >
+      <a href="/authors/yong-cao/">Yong Cao</a></span>, <span >
+      <a href="/authors/yijie-liu/">Yijie Liu</a></span>
   </span>
   (2023).
   <a href="/publication/admin/2023/020_2023-apen-klm-zd/">Strategy for mitigating wake interference between offshore vertical-axis wind turbines: Evaluation of vertically staggered arrangement</a>.
@@ -1437,6 +1457,40 @@
 </a>
 
 
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/%e4%b8%ad%e7%a7%91%e9%99%a2%e4%b8%80%e5%8c%ba/" >
+    中科院一区</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/applied-energy/" >
+    Applied Energy</a>
+
 </p>
 
   
@@ -1457,16 +1511,16 @@
     
 
   <span >
-      Zhihao Zhang</span>, <span >
-      Limin Kuang</span>, <span >
-      Zhaolong Han</span>, <span >
-      Dai Zhou</span>, <span >
-      Yongsheng Zhao</span>, <span >
-      Yan Bao</span>, <span >
-      Lei Duan</span>, <span >
-      Jiahuang Tu</span>, <span class="author-highlighted">
-      Yaoran Chen</span>, <span >
-      Mingsheng Chen</span>
+      <a href="/authors/zhihao-zhang/">Zhihao Zhang</a></span>, <span >
+      <a href="/authors/limin-kuang/">Limin Kuang</a></span>, <span >
+      <a href="/authors/zhaolong-han/">Zhaolong Han</a></span>, <span >
+      <a href="/authors/dai-zhou/">Dai Zhou</a></span>, <span >
+      <a href="/authors/yongsheng-zhao/">Yongsheng Zhao</a></span>, <span >
+      <a href="/authors/yan-bao/">Yan Bao</a></span>, <span >
+      <a href="/authors/lei-duan/">Lei Duan</a></span>, <span >
+      <a href="/authors/jiahuang-tu/">Jiahuang Tu</a></span>, <span class="author-highlighted">
+      <a href="/authors/admin/">Yaoran Chen</a></span>, <span >
+      <a href="/authors/mingsheng-chen/">Mingsheng Chen</a></span>
   </span>
   (2023).
   <a href="/publication/admin/2023/018-2023-egy-zzh-hzl/">Comparative analysis of bent and basic winglets on performance improvement of horizontal axis wind turbines</a>.
@@ -1491,11 +1545,6 @@
 
 
 
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/admin/2023/018-2023-egy-zzh-hzl/cite.bib">
-  引用
-</a>
-
 
 
 
@@ -1512,6 +1561,40 @@
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/%e4%b8%ad%e7%a7%91%e9%99%a2%e4%b8%80%e5%8c%ba/" >
+    中科院一区</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/energy/" >
+    Energy</a>
 
 </p>
 
@@ -1533,12 +1616,12 @@
     
 
   <span >
-      Jianjian Liu</span>, <span >
-      Huizi Chen</span>, <span >
-      Shaorong Xie</span>, <span >
-      Yan Peng</span>, <span >
-      Dan Zhang</span>, <span >
-      Huayan Pu</span>
+      <a href="/authors/jianjian-liu/">Jianjian Liu</a></span>, <span >
+      <a href="/authors/huizi-chen/">Huizi Chen</a></span>, <span >
+      <a href="/authors/shaorong-xie/">Shaorong Xie</a></span>, <span >
+      <a href="/authors/yan-peng/">Yan Peng</a></span>, <span >
+      <a href="/authors/dan-zhang/">Dan Zhang</a></span>, <span >
+      <a href="/authors/huayan-pu/">Huayan Pu</a></span>
   </span>
   (2023).
   <a href="/publication/team/2023/2023_ljj_zd/">Trajectory planning for unmanned surface vehicles in multi-ship encounter situations</a>.
@@ -1580,6 +1663,40 @@
 </a>
 
 
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/%e4%b8%ad%e7%a7%91%e9%99%a2%e4%b8%80%e5%8c%ba/" >
+    中科院一区</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/ocean-engineering/" >
+    Ocean Engineering</a>
+
 </p>
 
   
@@ -1600,15 +1717,15 @@
     
 
   <span >
-      Hao Wu</span>, <span >
-      Xingang Xu</span>, <span >
-      Chuanfu Xin</span>, <span >
-      Yichen Liu</span>, <span >
-      Runze Rao</span>, <span >
-      Zhongjie Li</span>, <span >
-      Dan Zhang</span>, <span >
-      Yongxi Wu</span>, <span >
-      Senze Han</span>
+      <a href="/authors/hao-wu/">Hao Wu</a></span>, <span >
+      <a href="/authors/xingang-xu/">Xingang Xu</a></span>, <span >
+      <a href="/authors/chuanfu-xin/">Chuanfu Xin</a></span>, <span >
+      <a href="/authors/yichen-liu/">Yichen Liu</a></span>, <span >
+      <a href="/authors/runze-rao/">Runze Rao</a></span>, <span >
+      <a href="/authors/zhongjie-li/">Zhongjie Li</a></span>, <span >
+      <a href="/authors/dan-zhang/">Dan Zhang</a></span>, <span >
+      <a href="/authors/yongxi-wu/">Yongxi Wu</a></span>, <span >
+      <a href="/authors/senze-han/">Senze Han</a></span>
   </span>
   (2023).
   <a href="/publication/team/2023/2023_wh_xax_esa/">Intelligent fault diagnosis for triboelectric nanogenerators via a novel deep learning framework</a>.
@@ -1650,6 +1767,40 @@
 </a>
 
 
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/%e4%b8%ad%e7%a7%91%e9%99%a2%e4%b8%80%e5%8c%ba/" >
+    中科院一区</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/expert-systems-with-applications/" >
+    Expert Systems with Applications</a>
+
 </p>
 
   
@@ -1670,9 +1821,9 @@
     
 
   <span >
-      Cao Leilei</span>, <span class="author-highlighted">
-      Yaoran Chen</span>, <span >
-      Jin Qiangguo</span>
+      <a href="/authors/cao-leilei/">Cao Leilei</a></span>, <span class="author-highlighted">
+      <a href="/authors/admin/">Yaoran Chen</a></span>, <span >
+      <a href="/authors/jin-qiangguo/">Jin Qiangguo</a></span>
   </span>
   (2023).
   <a href="/publication/admin/2023/019_2023-electronics-cll-jqg/">Lightweight Strawberry Instance Segmentation on Low-Power Devices for Picking Robots</a>.
@@ -1697,11 +1848,6 @@
 
 
 
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/admin/2023/019_2023-electronics-cll-jqg/cite.bib">
-  引用
-</a>
-
 
 
 
@@ -1718,6 +1864,40 @@
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/%e4%b8%ad%e7%a7%91%e9%99%a2%e5%9b%9b%e5%8c%ba/" >
+    中科院四区</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/category/electronics/" >
+    Electronics</a>
 
 </p>
 
@@ -1868,7 +2048,7 @@
 
     
       <div class="col-md-12">
-        <h2 class="mb-4">Postgraduate</h2>
+        <h2 class="mb-4">硕士研究生</h2>
       </div>
     
 
@@ -1876,6 +2056,8 @@
       
       
       
+      
+        
       
       <div class="col-12 col-sm-auto people-person">
         
@@ -1885,11 +2067,11 @@
         
         
           
-          <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/authors/students/yulanlan/avatar_hua008cf2e1e27a54ba877238b69d8c02d_11545456_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
+          <a href="/authors/yulanlan/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/authors/yulanlan/avatar_hua008cf2e1e27a54ba877238b69d8c02d_11545456_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
         
 
         <div class="portrait-title">
-          <h2>余蓝蓝</h2>
+          <h2><a href="/authors/yulanlan/">余蓝蓝</a></h2>
           <h3>ShangHai University</h3>
           <h3>2023级硕士研究生</h3>
           
@@ -1901,6 +2083,8 @@
       
       
       
+        
+      
       <div class="col-12 col-sm-auto people-person">
         
         
@@ -1909,11 +2093,11 @@
         
         
           
-          <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/authors/students/lanyingren/avatar_hu72474cdea8f66806233bb381f278e0ba_332368_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
+          <a href="/authors/lanyingren/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/authors/lanyingren/avatar_hu72474cdea8f66806233bb381f278e0ba_332368_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
         
 
         <div class="portrait-title">
-          <h2>蓝英壬</h2>
+          <h2><a href="/authors/lanyingren/">蓝英壬</a></h2>
           <h3>ShangHai University</h3>
           <h3>2023级硕士研究生</h3>
           
@@ -1933,7 +2117,7 @@
 
     
       <div class="col-md-12">
-        <h2 class="mb-4">Undergraduate</h2>
+        <h2 class="mb-4">本科生</h2>
       </div>
     
 
@@ -1941,6 +2125,8 @@
       
       
       
+      
+        
       
       <div class="col-12 col-sm-auto people-person">
         
@@ -1950,15 +2136,15 @@
         
         
           
-          <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/authors/students/lishuoying/avatar_hu7e764abe7c9fd9e4927f90532b3ad456_9954603_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
+          <a href="/authors/lishuoying/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/authors/lishuoying/avatar_hu7e764abe7c9fd9e4927f90532b3ad456_9954603_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
         
 
         <div class="portrait-title">
-          <h2>李硕莹</h2>
+          <h2><a href="/authors/lishuoying/">李硕莹</a></h2>
           <h3>ShangHai University</h3>
           <h3>2023级本科生</h3>
           
-          <p class="people-interests"></p>
+          
         </div>
       </div>
     
