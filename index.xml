@@ -61,7 +61,8 @@
       <link>https://example.com/publication/team/2023/2023_wh_xax_esa/</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/team/2023/2023_wh_xax_esa/</guid>
-      <description></description>
+      <description>&lt;p&gt;docker run -itd &amp;ndash;name zhongbaoqi &amp;ndash;gpus all &amp;ndash;restart=always &amp;ndash;shm-size 16G -p 9020:22 -v /mnt/sdc/docker-data/zhongbaoqi:/root caicandong/anaconda-pytorch:py38&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -432,7 +433,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-142793586&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-159824376&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -442,7 +443,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-142793586&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-159824376&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

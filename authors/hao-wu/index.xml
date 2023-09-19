@@ -17,7 +17,8 @@
       <link>https://example.com/publication/team/2023/2023_wh_xax_esa/</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/team/2023/2023_wh_xax_esa/</guid>
-      <description></description>
+      <description>&lt;p&gt;docker run -itd &amp;ndash;name zhongbaoqi &amp;ndash;gpus all &amp;ndash;restart=always &amp;ndash;shm-size 16G -p 9020:22 -v /mnt/sdc/docker-data/zhongbaoqi:/root caicandong/anaconda-pytorch:py38&lt;/p&gt;
+</description>
     </item>
     
     <item>
