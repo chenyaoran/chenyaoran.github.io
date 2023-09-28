@@ -5,7 +5,7 @@
     <link>https://example.com/authors/yong-cao/</link>
       <atom:link href="https://example.com/authors/yong-cao/index.xml" rel="self" type="application/rss+xml" />
     <description>Yong Cao</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Yong Cao</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Sparse-measurement-based peak wind pressure evaluation by super-resolution convolutional neural networks</title>
+      <link>https://example.com/publication/admin/2023/021_2023-jweia-whk-cy/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2023/021_2023-jweia-whk-cy/</guid>
+      <description>&lt;!-- url_code = &#34;code.zip&#34;. --&gt;</description>
+    </item>
+    
+    <item>
       <title>Strategy for mitigating wake interference between offshore vertical-axis wind turbines: Evaluation of vertically staggered arrangement</title>
       <link>https://example.com/publication/admin/2023/020_2023-apen-klm-zd/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/admin/2023/020_2023-apen-klm-zd/</guid>
       <description>&lt;!-- url_code = &#34;code.zip&#34;. --&gt;</description>
     </item>

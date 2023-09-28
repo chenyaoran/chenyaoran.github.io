@@ -11,90 +11,26 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/authors/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication-type/2/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/category/applied-energy/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/categories/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/cfd/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/authors/dai-zhou/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/authors/hiroshi-katsuchi/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/authors/jiaqi-wang/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/authors/kai-zhang/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/authors/limin-kuang/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication_types/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/admin/2023/020_2023-apen-klm-zd/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/vawt/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/authors/yan-bao/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/authors/admin/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/authors/yijie-liu/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/authors/yong-cao/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/authors/zhaolong-han/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/category/%E4%B8%AD%E7%A7%91%E9%99%A2%E4%B8%80%E5%8C%BA/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/admin/2023/018-2023-egy-zzh-hzl/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/dai-zhou/</loc>
     <lastmod>2023-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -118,7 +54,31 @@
     <lastmod>2023-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/authors/limin-kuang/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/authors/mingsheng-chen/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication_types/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/yan-bao/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/admin/</loc>
     <lastmod>2023-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -126,7 +86,15 @@
     <lastmod>2023-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/authors/zhaolong-han/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/authors/zhihao-zhang/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/category/%E4%B8%AD%E7%A7%91%E9%99%A2%E4%B8%80%E5%8C%BA/</loc>
     <lastmod>2023-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -164,6 +132,70 @@
   </url><url>
     <loc>https://example.com/authors/yan-peng/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/category/applied-energy/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/haokai-wu/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/hiroshi-katsuchi/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/jiaqi-wang/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/category/journal-of-wind-engineering-and-industrial-aerodynamics/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/kai-zhang/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/peak-wind-pressure/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/peixing-xie/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/shuyang-cao/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/admin/2023/021_2023-jweia-whk-cy/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/admin/2023/020_2023-apen-klm-zd/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/super-resolution-reconstruction/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/tetsuro-tamura/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/vawt/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/yijie-liu/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/authors/yong-cao/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/authors/chuanfu-xin/</loc>
@@ -408,10 +440,6 @@
   </url><url>
     <loc>https://example.com/authors/yuan-zhou/</loc>
     <lastmod>2023-02-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/category/journal-of-wind-engineering-and-industrial-aerodynamics/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/authors/rui-zhang/</loc>

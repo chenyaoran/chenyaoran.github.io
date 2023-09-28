@@ -33,14 +33,6 @@
     </item>
     
     <item>
-      <title>Strategy for mitigating wake interference between offshore vertical-axis wind turbines: Evaluation of vertically staggered arrangement</title>
-      <link>https://example.com/publication/admin/2023/020_2023-apen-klm-zd/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/admin/2023/020_2023-apen-klm-zd/</guid>
-      <description>&lt;!-- url_code = &#34;code.zip&#34;. --&gt;</description>
-    </item>
-    
-    <item>
       <title>Comparative analysis of bent and basic winglets on performance improvement of horizontal axis wind turbines</title>
       <link>https://example.com/publication/admin/2023/018-2023-egy-zzh-hzl/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
@@ -54,6 +46,22 @@
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/team/2023/2023_ljj_zd/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse-measurement-based peak wind pressure evaluation by super-resolution convolutional neural networks</title>
+      <link>https://example.com/publication/admin/2023/021_2023-jweia-whk-cy/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2023/021_2023-jweia-whk-cy/</guid>
+      <description>&lt;!-- url_code = &#34;code.zip&#34;. --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Strategy for mitigating wake interference between offshore vertical-axis wind turbines: Evaluation of vertically staggered arrangement</title>
+      <link>https://example.com/publication/admin/2023/020_2023-apen-klm-zd/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2023/020_2023-apen-klm-zd/</guid>
+      <description>&lt;!-- url_code = &#34;code.zip&#34;. --&gt;</description>
     </item>
     
     <item>
@@ -433,7 +441,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-159824376&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-892175463&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -443,7 +451,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-159824376&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-892175463&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

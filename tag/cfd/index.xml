@@ -5,7 +5,7 @@
     <link>https://example.com/tag/cfd/</link>
       <atom:link href="https://example.com/tag/cfd/index.xml" rel="self" type="application/rss+xml" />
     <description>CFD</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>CFD</title>
@@ -13,19 +13,19 @@
     </image>
     
     <item>
-      <title>Strategy for mitigating wake interference between offshore vertical-axis wind turbines: Evaluation of vertically staggered arrangement</title>
-      <link>https://example.com/publication/admin/2023/020_2023-apen-klm-zd/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/admin/2023/020_2023-apen-klm-zd/</guid>
-      <description>&lt;!-- url_code = &#34;code.zip&#34;. --&gt;</description>
-    </item>
-    
-    <item>
       <title>Comparative analysis of bent and basic winglets on performance improvement of horizontal axis wind turbines</title>
       <link>https://example.com/publication/admin/2023/018-2023-egy-zzh-hzl/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/admin/2023/018-2023-egy-zzh-hzl/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Strategy for mitigating wake interference between offshore vertical-axis wind turbines: Evaluation of vertically staggered arrangement</title>
+      <link>https://example.com/publication/admin/2023/020_2023-apen-klm-zd/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/admin/2023/020_2023-apen-klm-zd/</guid>
+      <description>&lt;!-- url_code = &#34;code.zip&#34;. --&gt;</description>
     </item>
     
     <item>
