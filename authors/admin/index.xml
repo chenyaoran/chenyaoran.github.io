@@ -1,315 +1,92 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Yaoran Chen | 陈耀然</title>
-    <link>https://example.com/authors/admin/</link>
-      <atom:link href="https://example.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yaoran Chen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://example.com/authors/admin/avatar_hu06909cf1f4acba1d7a7a8bf85a5c09a1_264566_270x270_fill_q75_lanczos_center.jpg</url>
-      <title>Yaoran Chen</title>
-      <link>https://example.com/authors/admin/</link>
-    </image>
-    
-    <item>
-      <title>Comparative analysis of bent and basic winglets on performance improvement of horizontal axis wind turbines</title>
-      <link>https://example.com/publication/admin/2023/018-2023-egy-zzh-hzl/</link>
-      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/admin/2023/018-2023-egy-zzh-hzl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sparse-measurement-based peak wind pressure evaluation by super-resolution convolutional neural networks</title>
-      <link>https://example.com/publication/admin/2023/021_2023-jweia-whk-cy/</link>
-      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/admin/2023/021_2023-jweia-whk-cy/</guid>
-      <description>&lt;!-- url_code = &#34;code.zip&#34;. --&gt;</description>
-    </item>
-    
-    <item>
-      <title>Strategy for mitigating wake interference between offshore vertical-axis wind turbines: Evaluation of vertically staggered arrangement</title>
-      <link>https://example.com/publication/admin/2023/020_2023-apen-klm-zd/</link>
-      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/admin/2023/020_2023-apen-klm-zd/</guid>
-      <description>&lt;!-- url_code = &#34;code.zip&#34;. --&gt;</description>
-    </item>
-    
-    <item>
-      <title>Lightweight Strawberry Instance Segmentation on Low-Power Devices for Picking Robots</title>
-      <link>https://example.com/publication/admin/2023/019_2023-electronics-cll-jqg/</link>
-      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/admin/2023/019_2023-electronics-cll-jqg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aerodynamic performance optimization of vertical axis wind turbine with straight blades based on synergic control of pitch and flap</title>
-      <link>https://example.com/publication/admin/2023/017-2023-seta-hzl-zd/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/admin/2023/017-2023-seta-hzl-zd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Surrogate models for twin-VAWT performance based on Kriging and artificial neural networks</title>
-      <link>https://example.com/publication/admin/2023/015-2023-oe-cyr-zd/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/admin/2023/015-2023-oe-cyr-zd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Systematic investigation of effect of rotor solidity on vertical-axis wind turbines: Power performance and aerodynamics analysis</title>
-      <link>https://example.com/publication/admin/2023/014-2023-jweia-klm-zd/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/admin/2023/014-2023-jweia-klm-zd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Characterization of wake interference between two tandem offshore floating vertical-axis wind turbines: Effect of platform pitch motion</title>
-      <link>https://example.com/publication/admin/2022/013-2022-ecm-klm-hzl/</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/admin/2022/013-2022-ecm-klm-hzl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Investigation of pitch angles on the aerodynamics of twin-VAWT under staggered arrangement</title>
-      <link>https://example.com/publication/admin/2022/012-2022-oe-cyr-hzl/</link>
-      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/admin/2022/012-2022-oe-cyr-hzl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The mean wake model and its novel characteristic parameter of H-rotor VAWTs based on random forest method</title>
-      <link>https://example.com/publication/admin/2022/011-2022-egy-dzk-zd/</link>
-      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/admin/2022/011-2022-egy-dzk-zd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2-D regional short-term wind speed forecast based on CNN-LSTM deep learning model</title>
-      <link>https://example.com/publication/admin/2021/009-2021-ecm-cyr-hzl/</link>
-      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/admin/2021/009-2021-ecm-cyr-hzl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wind-capture-accelerate device for performance improvement of vertical-axis wind turbines: External diffuser system</title>
-      <link>https://example.com/publication/admin/2022/010-2022-egy-klm-zd/</link>
-      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/admin/2022/010-2022-egy-klm-zd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Framework of airfoil max lift-to-drag ratio prediction using hybrid feature mining and Gaussian process regression</title>
-      <link>https://example.com/publication/admin/2021/008-2021-ecm-cyr-hzl/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/admin/2021/008-2021-ecm-cyr-hzl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aerodynamic performance assessment of φ-type vertical axis wind turbine under pitch motion</title>
-      <link>https://example.com/publication/admin/2021/007-2021-egy-sj-hzl/</link>
-      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/admin/2021/007-2021-egy-sj-hzl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Short-term wind speed predicting framework based on EEMD-GA-LSTM method under large scaled wind history</title>
-      <link>https://example.com/publication/admin/2021/006-2021-ecm-cyr-hzl/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/admin/2021/006-2021-ecm-cyr-hzl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
-&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
-&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomsponsor&#34;&gt;&lt;a href=&#34;https://wowchemy.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A shape optimization of ϕ-shape Darrieus wind turbine under a given range of inlet wind speed</title>
-      <link>https://example.com/publication/admin/2020/005-2020-rene-cyr-hzl/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/admin/2020/005-2020-rene-cyr-hzl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Investigation of V-shaped blade for the performance improvement of vertical axis wind turbines</title>
-      <link>https://example.com/publication/admin/2020/004-2020-apen-sj-hzl/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/admin/2020/004-2020-apen-sj-hzl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Three-dimensional wake transition in the flow over four square cylinders at low Reynolds numbers</title>
-      <link>https://example.com/publication/admin/2020/003-2020-aip-zyh-hzl/</link>
-      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/admin/2020/003-2020-aip-zyh-hzl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Flow characteristics and dynamic responses of a parked straight‐bladed vertical axis wind turbine</title>
-      <link>https://example.com/publication/admin/2019/002-2019-ese-klm-hzl/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/admin/2019/002-2019-ese-klm-hzl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://example.com/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/jupyter/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Welcome to Academic!&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
-&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;jupyter lab index.ipynb
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;title: My post&amp;#39;s title
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;date: 2019-09-01
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# Put any other Academic metadata here...
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Edit the metadata of your post, using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
-&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;.
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
-&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Investigation of wake characteristics for the offshore floating vertical axis wind turbines in pitch and surge motions of platforms</title>
-      <link>https://example.com/publication/admin/2019/001-2019-egy-lh-hzl/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/admin/2019/001-2019-egy-lh-hzl/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yaoran Chen | 陈耀然</title><link>https://example.com/authors/admin/</link><atom:link href="https://example.com/authors/admin/index.xml" rel="self" type="application/rss+xml"/><description>Yaoran Chen</description><generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>https://example.com/authors/admin/avatar_hu06909cf1f4acba1d7a7a8bf85a5c09a1_264566_270x270_fill_q75_lanczos_center.jpg</url><title>Yaoran Chen</title><link>https://example.com/authors/admin/</link></image><item><title>Comparative analysis of bent and basic winglets on performance improvement of horizontal axis wind turbines</title><link>https://example.com/publication/admin/2023/018-2023-egy-zzh-hzl/</link><pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate><guid>https://example.com/publication/admin/2023/018-2023-egy-zzh-hzl/</guid><description/></item><item><title>Significant wave height prediction through artificial intelligent mode decomposition for wave energy management</title><link>https://example.com/publication/admin/2023/016-2023-eai-cyr-zd/</link><pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate><guid>https://example.com/publication/admin/2023/016-2023-eai-cyr-zd/</guid><description/></item><item><title>Sparse-measurement-based peak wind pressure evaluation by super-resolution convolutional neural networks</title><link>https://example.com/publication/admin/2023/021_2023-jweia-whk-cy/</link><pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate><guid>https://example.com/publication/admin/2023/021_2023-jweia-whk-cy/</guid><description>&lt;!-- url_code = "code.zip". --></description></item><item><title>Strategy for mitigating wake interference between offshore vertical-axis wind turbines: Evaluation of vertically staggered arrangement</title><link>https://example.com/publication/admin/2023/020_2023-apen-klm-zd/</link><pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate><guid>https://example.com/publication/admin/2023/020_2023-apen-klm-zd/</guid><description>&lt;!-- url_code = "code.zip". --></description></item><item><title>Lightweight Strawberry Instance Segmentation on Low-Power Devices for Picking Robots</title><link>https://example.com/publication/admin/2023/019_2023-electronics-cll-jqg/</link><pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate><guid>https://example.com/publication/admin/2023/019_2023-electronics-cll-jqg/</guid><description/></item><item><title>Aerodynamic performance optimization of vertical axis wind turbine with straight blades based on synergic control of pitch and flap</title><link>https://example.com/publication/admin/2023/017-2023-seta-hzl-zd/</link><pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate><guid>https://example.com/publication/admin/2023/017-2023-seta-hzl-zd/</guid><description/></item><item><title>Surrogate models for twin-VAWT performance based on Kriging and artificial neural networks</title><link>https://example.com/publication/admin/2023/015-2023-oe-cyr-zd/</link><pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate><guid>https://example.com/publication/admin/2023/015-2023-oe-cyr-zd/</guid><description/></item><item><title>Systematic investigation of effect of rotor solidity on vertical-axis wind turbines: Power performance and aerodynamics analysis</title><link>https://example.com/publication/admin/2023/014-2023-jweia-klm-zd/</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><guid>https://example.com/publication/admin/2023/014-2023-jweia-klm-zd/</guid><description/></item><item><title>Characterization of wake interference between two tandem offshore floating vertical-axis wind turbines: Effect of platform pitch motion</title><link>https://example.com/publication/admin/2022/013-2022-ecm-klm-hzl/</link><pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate><guid>https://example.com/publication/admin/2022/013-2022-ecm-klm-hzl/</guid><description/></item><item><title>Investigation of pitch angles on the aerodynamics of twin-VAWT under staggered arrangement</title><link>https://example.com/publication/admin/2022/012-2022-oe-cyr-hzl/</link><pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate><guid>https://example.com/publication/admin/2022/012-2022-oe-cyr-hzl/</guid><description/></item><item><title>The mean wake model and its novel characteristic parameter of H-rotor VAWTs based on random forest method</title><link>https://example.com/publication/admin/2022/011-2022-egy-dzk-zd/</link><pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate><guid>https://example.com/publication/admin/2022/011-2022-egy-dzk-zd/</guid><description/></item><item><title>2-D regional short-term wind speed forecast based on CNN-LSTM deep learning model</title><link>https://example.com/publication/admin/2021/009-2021-ecm-cyr-hzl/</link><pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate><guid>https://example.com/publication/admin/2021/009-2021-ecm-cyr-hzl/</guid><description/></item><item><title>Wind-capture-accelerate device for performance improvement of vertical-axis wind turbines: External diffuser system</title><link>https://example.com/publication/admin/2022/010-2022-egy-klm-zd/</link><pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate><guid>https://example.com/publication/admin/2022/010-2022-egy-klm-zd/</guid><description/></item><item><title>Framework of airfoil max lift-to-drag ratio prediction using hybrid feature mining and Gaussian process regression</title><link>https://example.com/publication/admin/2021/008-2021-ecm-cyr-hzl/</link><pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate><guid>https://example.com/publication/admin/2021/008-2021-ecm-cyr-hzl/</guid><description/></item><item><title>Aerodynamic performance assessment of φ-type vertical axis wind turbine under pitch motion</title><link>https://example.com/publication/admin/2021/007-2021-egy-sj-hzl/</link><pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate><guid>https://example.com/publication/admin/2021/007-2021-egy-sj-hzl/</guid><description/></item><item><title>Short-term wind speed predicting framework based on EEMD-GA-LSTM method under large scaled wind history</title><link>https://example.com/publication/admin/2021/006-2021-ecm-cyr-hzl/</link><pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate><guid>https://example.com/publication/admin/2021/006-2021-ecm-cyr-hzl/</guid><description/></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://example.com/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://example.com/post/getting-started/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">libr&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;hello&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;ol>
+&lt;li>The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li>
+&lt;li>The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong>no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong> and having &lt;strong>flexibility to later add even deeper personalization with HTML and CSS&lt;/strong>&lt;/li>
+&lt;li>You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li>
+&lt;/ol>
+&lt;p>&lt;a href="https://wowchemy.com" target="_blank" rel="noopener">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png" alt="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/a>&lt;/p>
+&lt;h2 id="get-started">Get Started&lt;/h2>
+&lt;ul>
+&lt;li>👉 &lt;a href="https://wowchemy.com/templates/" target="_blank" rel="noopener">&lt;strong>Create a new site&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>📚 &lt;a href="https://wowchemy.com/docs/" target="_blank" rel="noopener">&lt;strong>Personalize your site&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>💬 &lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Chat with the &lt;strong>Wowchemy community&lt;/strong>&lt;/a> or &lt;a href="https://discourse.gohugo.io" target="_blank" rel="noopener">&lt;strong>Hugo community&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>🐦 Twitter: &lt;a href="https://twitter.com/wowchemy" target="_blank" rel="noopener">@wowchemy&lt;/a> &lt;a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">@GeorgeCushen&lt;/a> &lt;a href="https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query" target="_blank" rel="noopener">#MadeWithWowchemy&lt;/a>&lt;/li>
+&lt;li>💡 &lt;a href="https://github.com/wowchemy/wowchemy-hugo-themes/issues" target="_blank" rel="noopener">Request a &lt;strong>feature&lt;/strong> or report a &lt;strong>bug&lt;/strong> for &lt;em>Wowchemy&lt;/em>&lt;/a>&lt;/li>
+&lt;li>⬆️ &lt;strong>Updating Wowchemy?&lt;/strong> View the &lt;a href="https://wowchemy.com/docs/hugo-tutorials/update/" target="_blank" rel="noopener">Update Tutorial&lt;/a> and &lt;a href="https://wowchemy.com/updates/" target="_blank" rel="noopener">Release Notes&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="crowd-funded-open-source-software">Crowd-funded open-source software&lt;/h2>
+&lt;p>To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p>
+&lt;h3 id="-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomsponsor">&lt;a href="https://wowchemy.com/sponsor/" target="_blank" rel="noopener">❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a>&lt;/h3>
+&lt;p>As a token of appreciation for sponsoring, you can &lt;strong>unlock &lt;a href="https://wowchemy.com/sponsor/" target="_blank" rel="noopener">these&lt;/a> awesome rewards and extra features 🦄✨&lt;/strong>&lt;/p>
+&lt;h2 id="ecosystem">Ecosystem&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://github.com/wowchemy/hugo-academic-cli" target="_blank" rel="noopener">Hugo Academic CLI&lt;/a>:&lt;/strong> Automatically import publications from BibTeX&lt;/li>
+&lt;/ul>
+&lt;h2 id="inspiration">Inspiration&lt;/h2>
+&lt;p>&lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Check out the latest &lt;strong>demo&lt;/strong>&lt;/a> of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href="https://wowchemy.com/user-stories/" target="_blank" rel="noopener">view the &lt;strong>showcase&lt;/strong>&lt;/a> of personal, project, and business sites.&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Page builder&lt;/strong> - Create &lt;em>anything&lt;/em> with &lt;a href="https://wowchemy.com/docs/page-builder/" target="_blank" rel="noopener">&lt;strong>widgets&lt;/strong>&lt;/a> and &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>elements&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Edit any type of content&lt;/strong> - Blog posts, publications, talks, slides, projects, and more!&lt;/li>
+&lt;li>&lt;strong>Create content&lt;/strong> in &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>Markdown&lt;/strong>&lt;/a>, &lt;a href="https://wowchemy.com/docs/import/jupyter/" target="_blank" rel="noopener">&lt;strong>Jupyter&lt;/strong>&lt;/a>, or &lt;a href="https://wowchemy.com/docs/install-locally/" target="_blank" rel="noopener">&lt;strong>RStudio&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Plugin System&lt;/strong> - Fully customizable &lt;a href="https://wowchemy.com/docs/customization/" target="_blank" rel="noopener">&lt;strong>color&lt;/strong> and &lt;strong>font themes&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Display Code and Math&lt;/strong> - Code highlighting and &lt;a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank" rel="noopener">LaTeX math&lt;/a> supported&lt;/li>
+&lt;li>&lt;strong>Integrations&lt;/strong> - &lt;a href="https://analytics.google.com" target="_blank" rel="noopener">Google Analytics&lt;/a>, &lt;a href="https://disqus.com" target="_blank" rel="noopener">Disqus commenting&lt;/a>, Maps, Contact Forms, and more!&lt;/li>
+&lt;li>&lt;strong>Beautiful Site&lt;/strong> - Simple and refreshing one page design&lt;/li>
+&lt;li>&lt;strong>Industry-Leading SEO&lt;/strong> - Help get your website found on search engines and social media&lt;/li>
+&lt;li>&lt;strong>Media Galleries&lt;/strong> - Display your images and videos with captions in a customizable gallery&lt;/li>
+&lt;li>&lt;strong>Mobile Friendly&lt;/strong> - Look amazing on every screen with a mobile friendly version of your site&lt;/li>
+&lt;li>&lt;strong>Multi-language&lt;/strong> - 34+ language packs including English, 中文, and Português&lt;/li>
+&lt;li>&lt;strong>Multi-user&lt;/strong> - Each author gets their own profile page&lt;/li>
+&lt;li>&lt;strong>Privacy Pack&lt;/strong> - Assists with GDPR&lt;/li>
+&lt;li>&lt;strong>Stand Out&lt;/strong> - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li>
+&lt;li>&lt;strong>One-Click Deployment&lt;/strong> - No servers. No databases. Only files.&lt;/li>
+&lt;/ul>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;p>Wowchemy and its templates come with &lt;strong>automatic day (light) and night (dark) mode&lt;/strong> built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Demo&lt;/a> to see it in action! Day/night mode can also be disabled by the site admin in &lt;code>params.toml&lt;/code>.&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com/docs/customization" target="_blank" rel="noopener">Choose a stunning &lt;strong>theme&lt;/strong> and &lt;strong>font&lt;/strong>&lt;/a> for your site. Themes are fully customizable.&lt;/p>
+&lt;h2 id="license">License&lt;/h2>
+&lt;p>Copyright 2016-present &lt;a href="https://georgecushen.com" target="_blank" rel="noopener">George Cushen&lt;/a>.&lt;/p>
+&lt;p>Released under the &lt;a href="https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item><item><title>A shape optimization of ϕ-shape Darrieus wind turbine under a given range of inlet wind speed</title><link>https://example.com/publication/admin/2020/005-2020-rene-cyr-hzl/</link><pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate><guid>https://example.com/publication/admin/2020/005-2020-rene-cyr-hzl/</guid><description/></item><item><title>Investigation of V-shaped blade for the performance improvement of vertical axis wind turbines</title><link>https://example.com/publication/admin/2020/004-2020-apen-sj-hzl/</link><pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate><guid>https://example.com/publication/admin/2020/004-2020-apen-sj-hzl/</guid><description/></item><item><title>Three-dimensional wake transition in the flow over four square cylinders at low Reynolds numbers</title><link>https://example.com/publication/admin/2020/003-2020-aip-zyh-hzl/</link><pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate><guid>https://example.com/publication/admin/2020/003-2020-aip-zyh-hzl/</guid><description/></item><item><title>Flow characteristics and dynamic responses of a parked straight‐bladed vertical axis wind turbine</title><link>https://example.com/publication/admin/2019/002-2019-ese-klm-hzl/</link><pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate><guid>https://example.com/publication/admin/2019/002-2019-ese-klm-hzl/</guid><description/></item><item><title>Display Jupyter Notebooks with Academic</title><link>https://example.com/post/jupyter/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://example.com/post/jupyter/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">from&lt;/span> &lt;span class="nn">IPython.core.display&lt;/span> &lt;span class="kn">import&lt;/span> &lt;span class="n">Image&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">Image&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./index_1_0.png" alt="png" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;Welcome to Academic!&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;pre>&lt;code>Welcome to Academic!
+&lt;/code>&lt;/pre>
+&lt;h2 id="install-python-and-jupyterlab">Install Python and JupyterLab&lt;/h2>
+&lt;p>&lt;a href="https://www.anaconda.com/distribution/#download-section" target="_blank" rel="noopener">Install Anaconda&lt;/a> which includes Python 3 and JupyterLab.&lt;/p>
+&lt;p>Alternatively, install JupyterLab with &lt;code>pip3 install jupyterlab&lt;/code>.&lt;/p>
+&lt;h2 id="create-or-upload-a-jupyter-notebook">Create or upload a Jupyter notebook&lt;/h2>
+&lt;p>Run the following commands in your Terminal, substituting &lt;code>&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code> and &lt;code>&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code> with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">cd&lt;/span> &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">jupyter lab index.ipynb
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>The &lt;code>jupyter&lt;/code> command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p>
+&lt;h2 id="edit-your-post-metadata">Edit your post metadata&lt;/h2>
+&lt;p>The first cell of your Jupter notebook will contain your post metadata (&lt;a href="https://sourcethemes.com/academic/docs/front-matter/" target="_blank" rel="noopener">front matter&lt;/a>).&lt;/p>
+&lt;p>In Jupter, choose &lt;em>Markdown&lt;/em> as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">---
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">title: My post&amp;#39;s title
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">date: 2019-09-01
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"># Put any other Academic metadata here...
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">---
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Edit the metadata of your post, using the &lt;a href="https://sourcethemes.com/academic/docs/managing-content" target="_blank" rel="noopener">documentation&lt;/a> as a guide to the available options.&lt;/p>
+&lt;p>To set a &lt;a href="https://sourcethemes.com/academic/docs/managing-content/#featured-image" target="_blank" rel="noopener">featured image&lt;/a>, place an image named &lt;code>featured&lt;/code> into your post&amp;rsquo;s folder.&lt;/p>
+&lt;p>For other tips, such as using math, see the guide on &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/" target="_blank" rel="noopener">writing content with Academic&lt;/a>.&lt;/p>
+&lt;h2 id="convert-notebook-to-markdown">Convert notebook to Markdown&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir&lt;span class="o">=&lt;/span>.
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="example">Example&lt;/h2>
+&lt;p>This post was created with Jupyter. The orginal files can be found at &lt;a href="https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter" target="_blank" rel="noopener">https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a>&lt;/p></description></item><item><title>Investigation of wake characteristics for the offshore floating vertical axis wind turbines in pitch and surge motions of platforms</title><link>https://example.com/publication/admin/2019/001-2019-egy-lh-hzl/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://example.com/publication/admin/2019/001-2019-egy-lh-hzl/</guid><description/></item></channel></rss>

@@ -1,318 +1,254 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts | 陈耀然</title>
-    <link>https://example.com/post/</link>
-      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Posts</title>
-      <link>https://example.com/post/</link>
-    </image>
-    
-    <item>
-      <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
-&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
-&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomsponsor&#34;&gt;&lt;a href=&#34;https://wowchemy.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Writing technical content in Markdown</title>
-      <link>https://example.com/post/writing-technical-content/</link>
-      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/writing-technical-content/</guid>
-      <description>&lt;p&gt;Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
-&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
-&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
-&lt;p&gt;Wowchemy supports a Markdown extension for highlighting code syntax. You can customize the styles under the &lt;code&gt;syntax_highlighter&lt;/code&gt; option in your &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```python
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | 陈耀然</title><link>https://example.com/post/</link><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Posts</title><link>https://example.com/post/</link></image><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://example.com/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://example.com/post/getting-started/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">libr&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;hello&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;ol>
+&lt;li>The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li>
+&lt;li>The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong>no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong> and having &lt;strong>flexibility to later add even deeper personalization with HTML and CSS&lt;/strong>&lt;/li>
+&lt;li>You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li>
+&lt;/ol>
+&lt;p>&lt;a href="https://wowchemy.com" target="_blank" rel="noopener">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png" alt="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/a>&lt;/p>
+&lt;h2 id="get-started">Get Started&lt;/h2>
+&lt;ul>
+&lt;li>👉 &lt;a href="https://wowchemy.com/templates/" target="_blank" rel="noopener">&lt;strong>Create a new site&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>📚 &lt;a href="https://wowchemy.com/docs/" target="_blank" rel="noopener">&lt;strong>Personalize your site&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>💬 &lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Chat with the &lt;strong>Wowchemy community&lt;/strong>&lt;/a> or &lt;a href="https://discourse.gohugo.io" target="_blank" rel="noopener">&lt;strong>Hugo community&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>🐦 Twitter: &lt;a href="https://twitter.com/wowchemy" target="_blank" rel="noopener">@wowchemy&lt;/a> &lt;a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">@GeorgeCushen&lt;/a> &lt;a href="https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query" target="_blank" rel="noopener">#MadeWithWowchemy&lt;/a>&lt;/li>
+&lt;li>💡 &lt;a href="https://github.com/wowchemy/wowchemy-hugo-themes/issues" target="_blank" rel="noopener">Request a &lt;strong>feature&lt;/strong> or report a &lt;strong>bug&lt;/strong> for &lt;em>Wowchemy&lt;/em>&lt;/a>&lt;/li>
+&lt;li>⬆️ &lt;strong>Updating Wowchemy?&lt;/strong> View the &lt;a href="https://wowchemy.com/docs/hugo-tutorials/update/" target="_blank" rel="noopener">Update Tutorial&lt;/a> and &lt;a href="https://wowchemy.com/updates/" target="_blank" rel="noopener">Release Notes&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="crowd-funded-open-source-software">Crowd-funded open-source software&lt;/h2>
+&lt;p>To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p>
+&lt;h3 id="-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomsponsor">&lt;a href="https://wowchemy.com/sponsor/" target="_blank" rel="noopener">❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a>&lt;/h3>
+&lt;p>As a token of appreciation for sponsoring, you can &lt;strong>unlock &lt;a href="https://wowchemy.com/sponsor/" target="_blank" rel="noopener">these&lt;/a> awesome rewards and extra features 🦄✨&lt;/strong>&lt;/p>
+&lt;h2 id="ecosystem">Ecosystem&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://github.com/wowchemy/hugo-academic-cli" target="_blank" rel="noopener">Hugo Academic CLI&lt;/a>:&lt;/strong> Automatically import publications from BibTeX&lt;/li>
+&lt;/ul>
+&lt;h2 id="inspiration">Inspiration&lt;/h2>
+&lt;p>&lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Check out the latest &lt;strong>demo&lt;/strong>&lt;/a> of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href="https://wowchemy.com/user-stories/" target="_blank" rel="noopener">view the &lt;strong>showcase&lt;/strong>&lt;/a> of personal, project, and business sites.&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Page builder&lt;/strong> - Create &lt;em>anything&lt;/em> with &lt;a href="https://wowchemy.com/docs/page-builder/" target="_blank" rel="noopener">&lt;strong>widgets&lt;/strong>&lt;/a> and &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>elements&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Edit any type of content&lt;/strong> - Blog posts, publications, talks, slides, projects, and more!&lt;/li>
+&lt;li>&lt;strong>Create content&lt;/strong> in &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>Markdown&lt;/strong>&lt;/a>, &lt;a href="https://wowchemy.com/docs/import/jupyter/" target="_blank" rel="noopener">&lt;strong>Jupyter&lt;/strong>&lt;/a>, or &lt;a href="https://wowchemy.com/docs/install-locally/" target="_blank" rel="noopener">&lt;strong>RStudio&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Plugin System&lt;/strong> - Fully customizable &lt;a href="https://wowchemy.com/docs/customization/" target="_blank" rel="noopener">&lt;strong>color&lt;/strong> and &lt;strong>font themes&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Display Code and Math&lt;/strong> - Code highlighting and &lt;a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank" rel="noopener">LaTeX math&lt;/a> supported&lt;/li>
+&lt;li>&lt;strong>Integrations&lt;/strong> - &lt;a href="https://analytics.google.com" target="_blank" rel="noopener">Google Analytics&lt;/a>, &lt;a href="https://disqus.com" target="_blank" rel="noopener">Disqus commenting&lt;/a>, Maps, Contact Forms, and more!&lt;/li>
+&lt;li>&lt;strong>Beautiful Site&lt;/strong> - Simple and refreshing one page design&lt;/li>
+&lt;li>&lt;strong>Industry-Leading SEO&lt;/strong> - Help get your website found on search engines and social media&lt;/li>
+&lt;li>&lt;strong>Media Galleries&lt;/strong> - Display your images and videos with captions in a customizable gallery&lt;/li>
+&lt;li>&lt;strong>Mobile Friendly&lt;/strong> - Look amazing on every screen with a mobile friendly version of your site&lt;/li>
+&lt;li>&lt;strong>Multi-language&lt;/strong> - 34+ language packs including English, 中文, and Português&lt;/li>
+&lt;li>&lt;strong>Multi-user&lt;/strong> - Each author gets their own profile page&lt;/li>
+&lt;li>&lt;strong>Privacy Pack&lt;/strong> - Assists with GDPR&lt;/li>
+&lt;li>&lt;strong>Stand Out&lt;/strong> - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li>
+&lt;li>&lt;strong>One-Click Deployment&lt;/strong> - No servers. No databases. Only files.&lt;/li>
+&lt;/ul>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;p>Wowchemy and its templates come with &lt;strong>automatic day (light) and night (dark) mode&lt;/strong> built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Demo&lt;/a> to see it in action! Day/night mode can also be disabled by the site admin in &lt;code>params.toml&lt;/code>.&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com/docs/customization" target="_blank" rel="noopener">Choose a stunning &lt;strong>theme&lt;/strong> and &lt;strong>font&lt;/strong>&lt;/a> for your site. Themes are fully customizable.&lt;/p>
+&lt;h2 id="license">License&lt;/h2>
+&lt;p>Copyright 2016-present &lt;a href="https://georgecushen.com" target="_blank" rel="noopener">George Cushen&lt;/a>.&lt;/p>
+&lt;p>Released under the &lt;a href="https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item><item><title>Writing technical content in Markdown</title><link>https://example.com/post/writing-technical-content/</link><pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate><guid>https://example.com/post/writing-technical-content/</guid><description>&lt;p>Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p>
+&lt;p>&lt;strong>Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong>&lt;/p>
+&lt;p>On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p>
+&lt;h2 id="examples">Examples&lt;/h2>
+&lt;h3 id="code">Code&lt;/h3>
+&lt;p>Wowchemy supports a Markdown extension for highlighting code syntax. You can customize the styles under the &lt;code>syntax_highlighter&lt;/code> option in your &lt;code>config/_default/params.yaml&lt;/code> file.&lt;/p>
+&lt;pre>&lt;code>```python
 import pandas as pd
 data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
 data.head()
 ```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pandas&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pd&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;pd&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;read_csv&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;data.csv&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;mindmaps&#34;&gt;Mindmaps&lt;/h3&gt;
-&lt;p&gt;Wowchemy supports a Markdown extension for mindmaps.&lt;/p&gt;
-&lt;p&gt;Simply insert a Markdown &lt;code&gt;markmap&lt;/code&gt; code block and optionally set the height of the mindmap as shown in the example below.&lt;/p&gt;
-&lt;p&gt;A simple mindmap defined as a Markdown list:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;
-&lt;code&gt;
-```markmap {height=&#34;200px&#34;}
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">pandas&lt;/span> &lt;span class="k">as&lt;/span> &lt;span class="nn">pd&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">data&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">pd&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">read_csv&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;data.csv&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">data&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">head&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="mindmaps">Mindmaps&lt;/h3>
+&lt;p>Wowchemy supports a Markdown extension for mindmaps.&lt;/p>
+&lt;p>Simply insert a Markdown &lt;code>markmap&lt;/code> code block and optionally set the height of the mindmap as shown in the example below.&lt;/p>
+&lt;p>A simple mindmap defined as a Markdown list:&lt;/p>
+&lt;div class="highlight">
+&lt;pre class="chroma">
+&lt;code>
+```markmap {height="200px"}
 - Hugo Modules
-  - wowchemy
-  - wowchemy-plugins-netlify
-  - wowchemy-plugins-netlify-cms
-  - wowchemy-plugins-reveal
+- wowchemy
+- wowchemy-plugins-netlify
+- wowchemy-plugins-netlify-cms
+- wowchemy-plugins-reveal
 ```
-&lt;/code&gt;
-&lt;/pre&gt;
-&lt;/div&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;markmap&#34; style=&#34;height: 200px;&#34;&gt;
-
-&lt;pre&gt;- Hugo Modules
-  - wowchemy
-  - wowchemy-plugins-netlify
-  - wowchemy-plugins-netlify-cms
-  - wowchemy-plugins-reveal&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;A more advanced mindmap with formatting, code blocks, and math:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;
-&lt;code&gt;
+&lt;/code>
+&lt;/pre>
+&lt;/div>
+&lt;p>renders as&lt;/p>
+&lt;div class="markmap" style="height: 200px;">
+&lt;pre>- Hugo Modules
+- wowchemy
+- wowchemy-plugins-netlify
+- wowchemy-plugins-netlify-cms
+- wowchemy-plugins-reveal&lt;/pre>
+&lt;/div>
+&lt;p>A more advanced mindmap with formatting, code blocks, and math:&lt;/p>
+&lt;div class="highlight">
+&lt;pre class="chroma">
+&lt;code>
 ```markmap
 - Mindmaps
-  - Links
-    - [Wowchemy Docs](https://wowchemy.com/docs/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log(&#39;hello&#39;);
-      console.log(&#39;code block&#39;);
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+- Links
+- [Wowchemy Docs](https://wowchemy.com/docs/)
+- [Discord Community](https://discord.gg/z8wNYzb)
+- [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
+- Features
+- Markdown formatting
+- **inline** ~~text~~ *styles*
+- multiline
+text
+- `inline code`
+-
+```js
+console.log('hello');
+console.log('code block');
 ```
-&lt;/code&gt;
-&lt;/pre&gt;
-&lt;/div&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;markmap&#34; style=&#34;height: 500px;&#34;&gt;
-
-&lt;pre&gt;- Mindmaps
-  - Links
-    - [Wowchemy Docs](https://wowchemy.com/docs/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log(&#39;hello&#39;);
-      console.log(&#39;code block&#39;);
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&#34;charts&#34;&gt;Charts&lt;/h3&gt;
-&lt;p&gt;Wowchemy supports the popular &lt;a href=&#34;https://plot.ly/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly&lt;/a&gt; format for interactive charts.&lt;/p&gt;
-&lt;p&gt;Save your Plotly JSON in your page folder, for example &lt;code&gt;line-chart.json&lt;/code&gt;, and then add the &lt;code&gt;{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code&gt; shortcode where you would like the chart to appear.&lt;/p&gt;
-&lt;p&gt;Demo:&lt;/p&gt;
-
-
-
-
-&lt;div id=&#34;chart-892175463&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-  (function() {
-    let a = setInterval( function() {
-      if ( typeof window.Plotly === &#39;undefined&#39; ) {
-        return;
-      }
-      clearInterval( a );
-
-      Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-892175463&#39;, chart.data, chart.layout, {responsive: true});
-      });
-    }, 500 );
-  })();
-&lt;/script&gt;
-
-&lt;p&gt;You might also find the &lt;a href=&#34;http://plotly-json-editor.getforge.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly JSON Editor&lt;/a&gt; useful.&lt;/p&gt;
-&lt;h3 id=&#34;math&#34;&gt;Math&lt;/h3&gt;
-&lt;p&gt;Wowchemy supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
-&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;{{&amp;lt; math &amp;gt;}}$...${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; or &lt;code&gt;{{&amp;lt; math &amp;gt;}}$$...$${{&amp;lt; /math &amp;gt;}}&lt;/code&gt;, respectively. (We wrap the LaTeX math in the Wowchemy &lt;em&gt;math&lt;/em&gt; shortcode to prevent Hugo rendering our math as Markdown. The &lt;em&gt;math&lt;/em&gt; shortcode is new in v5.5-dev.)&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\gamma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{ &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; | &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^T &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; |}{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-
-
-
+- Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+```
+&lt;/code>
+&lt;/pre>
+&lt;/div>
+&lt;p>renders as&lt;/p>
+&lt;div class="markmap" style="height: 500px;">
+&lt;pre>- Mindmaps
+- Links
+- [Wowchemy Docs](https://wowchemy.com/docs/)
+- [Discord Community](https://discord.gg/z8wNYzb)
+- [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
+- Features
+- Markdown formatting
+- **inline** ~~text~~ *styles*
+- multiline
+text
+- `inline code`
+-
+```js
+console.log('hello');
+console.log('code block');
+```
+- Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$&lt;/pre>
+&lt;/div>
+&lt;h3 id="charts">Charts&lt;/h3>
+&lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
+&lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
+&lt;p>Demo:&lt;/p>
+&lt;div id="chart-246587193" class="chart">&lt;/div>
+&lt;script>
+(function() {
+let a = setInterval( function() {
+if ( typeof window.Plotly === 'undefined' ) {
+return;
+}
+clearInterval( a );
+Plotly.d3.json("./line-chart.json", function(chart) {
+Plotly.plot('chart-246587193', chart.data, chart.layout, {responsive: true});
+});
+}, 500 );
+})();
+&lt;/script>
+&lt;p>You might also find the &lt;a href="http://plotly-json-editor.getforge.io/" target="_blank" rel="noopener">Plotly JSON Editor&lt;/a> useful.&lt;/p>
+&lt;h3 id="math">Math&lt;/h3>
+&lt;p>Wowchemy supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code>math&lt;/code> option in your &lt;code>config/_default/params.yaml&lt;/code> file.&lt;/p>
+&lt;p>To render &lt;em>inline&lt;/em> or &lt;em>block&lt;/em> math, wrap your LaTeX math with &lt;code>{{&amp;lt; math &amp;gt;}}$...${{&amp;lt; /math &amp;gt;}}&lt;/code> or &lt;code>{{&amp;lt; math &amp;gt;}}$$...$${{&amp;lt; /math &amp;gt;}}&lt;/code>, respectively. (We wrap the LaTeX math in the Wowchemy &lt;em>math&lt;/em> shortcode to prevent Hugo rendering our math as Markdown. The &lt;em>math&lt;/em> shortcode is new in v5.5-dev.)&lt;/p>
+&lt;p>Example &lt;strong>math block&lt;/strong>:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-latex" data-lang="latex">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">{{&lt;/span>&amp;lt; math &amp;gt;&lt;span class="nb">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="sb">$$&lt;/span>&lt;span class="nb">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">&lt;/span>&lt;span class="nv">\gamma&lt;/span>&lt;span class="nb">_{n} &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\frac&lt;/span>&lt;span class="nb">{ &lt;/span>&lt;span class="nv">\left&lt;/span>&lt;span class="nb"> | &lt;/span>&lt;span class="nv">\left&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb"> x_{n} &lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb"> x_{n&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="nb">} &lt;/span>&lt;span class="nv">\right&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb">^T &lt;/span>&lt;span class="nv">\left&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">[&lt;/span>&lt;span class="nv">\nabla&lt;/span>&lt;span class="nb"> F &lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb"> x_{n}&lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\nabla&lt;/span>&lt;span class="nb"> F &lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb"> x_{n&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="nb">}&lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\right&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">]&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\right&lt;/span>&lt;span class="nb"> |}{&lt;/span>&lt;span class="nv">\left&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\|\nabla&lt;/span>&lt;span class="nb"> F&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb">{x}_{n}&lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\nabla&lt;/span>&lt;span class="nb"> F&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb">{x}_{n&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="nb">}&lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\right&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\|&lt;/span>&lt;span class="nb">^&lt;/span>&lt;span class="m">2&lt;/span>&lt;span class="nb">}
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">&lt;/span>&lt;span class="s">$$&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">{{&lt;/span>&amp;lt; /math &amp;gt;&lt;span class="nb">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
 $$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-
-&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;{{&amp;lt; math &amp;gt;}}$\nabla F(\mathbf{x}_{n})${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; renders as 
-
-$\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the math linebreak (&lt;code&gt;\\&lt;/code&gt;):&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;k;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;, &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\\&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-
-
-
-
+&lt;p>Example &lt;strong>inline math&lt;/strong> &lt;code>{{&amp;lt; math &amp;gt;}}$\nabla F(\mathbf{x}_{n})${{&amp;lt; /math &amp;gt;}}&lt;/code> renders as
+$\nabla F(\mathbf{x}_{n})$.&lt;/p>
+&lt;p>Example &lt;strong>multi-line math&lt;/strong> using the math linebreak (&lt;code>\\&lt;/code>):&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-latex" data-lang="latex">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">{{&lt;/span>&amp;lt; math &amp;gt;&lt;span class="nb">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="sb">$$&lt;/span>&lt;span class="nb">f&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nb">k;p_{&lt;/span>&lt;span class="m">0&lt;/span>&lt;span class="nb">}^{&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="nb">}&lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\begin&lt;/span>&lt;span class="nb">{cases}p_{&lt;/span>&lt;span class="m">0&lt;/span>&lt;span class="nb">}^{&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="nb">} &amp;amp; &lt;/span>&lt;span class="nv">\text&lt;/span>&lt;span class="nb">{if }k&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="nb">, &lt;/span>&lt;span class="nv">\\&lt;/span>&lt;span class="nb">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">&lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="nb">p_{&lt;/span>&lt;span class="m">0&lt;/span>&lt;span class="nb">}^{&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="nb">} &amp;amp; &lt;/span>&lt;span class="nv">\text&lt;/span>&lt;span class="nb">{if }k&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="m">0&lt;/span>&lt;span class="nb">.&lt;/span>&lt;span class="nv">\end&lt;/span>&lt;span class="nb">{cases}&lt;/span>&lt;span class="s">$$&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">{{&lt;/span>&amp;lt; /math &amp;gt;&lt;span class="nb">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
 $$
 f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
 1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}
 $$
-
-
-&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
-&lt;p&gt;Wowchemy supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
-&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
+&lt;h3 id="diagrams">Diagrams&lt;/h3>
+&lt;p>Wowchemy supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code>diagram&lt;/code> option in your &lt;code>config/_default/params.toml&lt;/code> file or by adding &lt;code>diagram: true&lt;/code> to your page front matter.&lt;/p>
+&lt;p>An example &lt;strong>flowchart&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
 graph TD
 A[Hard] --&amp;gt;|Text| B(Round)
 B --&amp;gt; C{Decision}
 C --&amp;gt;|One| D[Result 1]
 C --&amp;gt;|Two| E[Result 2]
 ```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;graph TD
-A[Hard] --&gt;|Text| B(Round)
-B --&gt; C{Decision}
-C --&gt;|One| D[Result 1]
-C --&gt;|Two| E[Result 2]
-&lt;/div&gt;
-&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;div class="mermaid">graph TD
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+&lt;/div>
+&lt;p>An example &lt;strong>sequence diagram&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
 sequenceDiagram
 Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
 loop Healthcheck
-    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+John-&amp;gt;&amp;gt;John: Fight against hypochondria
 end
 Note right of John: Rational thoughts!
 John--&amp;gt;&amp;gt;Alice: Great!
 John-&amp;gt;&amp;gt;Bob: How about you?
 Bob--&amp;gt;&amp;gt;John: Jolly good!
 ```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;sequenceDiagram
-Alice-&gt;&gt;John: Hello John, how are you?
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;div class="mermaid">sequenceDiagram
+Alice->>John: Hello John, how are you?
 loop Healthcheck
-    John-&gt;&gt;John: Fight against hypochondria
+John->>John: Fight against hypochondria
 end
 Note right of John: Rational thoughts!
-John--&gt;&gt;Alice: Great!
-John-&gt;&gt;Bob: How about you?
-Bob--&gt;&gt;John: Jolly good!
-&lt;/div&gt;
-&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
+John-->>Alice: Great!
+John->>Bob: How about you?
+Bob-->>John: Jolly good!
+&lt;/div>
+&lt;p>An example &lt;strong>Gantt diagram&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
 gantt
 section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
+Completed :done, des1, 2014-01-06,2014-01-08
+Active :active, des2, 2014-01-07, 3d
+Parallel 1 : des3, after des1, 1d
+Parallel 2 : des4, after des1, 1d
+Parallel 3 : des5, after des3, 1d
+Parallel 4 : des6, after des4, 1d
 ```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;gantt
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;div class="mermaid">gantt
 section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-&lt;/div&gt;
-&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
+Completed :done, des1, 2014-01-06,2014-01-08
+Active :active, des2, 2014-01-07, 3d
+Parallel 1 : des3, after des1, 1d
+Parallel 2 : des4, after des1, 1d
+Parallel 3 : des5, after des3, 1d
+Parallel 4 : des6, after des4, 1d
+&lt;/div>
+&lt;p>An example &lt;strong>class diagram&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
 classDiagram
 Class01 &amp;lt;|-- AveryLongClass : Cool
 Class03 *-- Class04
@@ -328,25 +264,25 @@ Class01 : int chimp
 Class01 : int gorilla
 Class08 &amp;lt;--&amp;gt; C2: Cool label
 ```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;classDiagram
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;div class="mermaid">classDiagram
 Class01 &lt;|-- AveryLongClass : Cool
 Class03 *-- Class04
 Class05 o-- Class06
 Class07 .. Class08
-Class09 --&gt; C2 : Where am i?
+Class09 --> C2 : Where am i?
 Class09 --* C3
-Class09 --|&gt; Class07
+Class09 --|> Class07
 Class07 : equals()
 Class07 : Object[] elementData
 Class01 : size()
 Class01 : int chimp
 Class01 : int gorilla
-Class08 &lt;--&gt; C2: Cool label
-&lt;/div&gt;
-&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
+Class08 &lt;--> C2: Cool label
+&lt;/div>
+&lt;p>An example &lt;strong>state diagram&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
 stateDiagram
 [*] --&amp;gt; Still
 Still --&amp;gt; [*]
@@ -355,195 +291,115 @@ Moving --&amp;gt; Still
 Moving --&amp;gt; Crash
 Crash --&amp;gt; [*]
 ```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;stateDiagram
-[*] --&gt; Still
-Still --&gt; [*]
-Still --&gt; Moving
-Moving --&gt; Still
-Moving --&gt; Crash
-Crash --&gt; [*]
-&lt;/div&gt;
-&lt;h3 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h3&gt;
-&lt;p&gt;You can even write your todo lists in Markdown too:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write math example
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write diagram example
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [ ]&lt;/span&gt; Do something else
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
-&lt;p&gt;Save your spreadsheet as a CSV file in your page&amp;rsquo;s folder and then render it by adding the &lt;em&gt;Table&lt;/em&gt; shortcode to your page:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;table&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;path&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;results.csv&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;header&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;true&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;caption&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Table 1: My results&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-&lt;table class=&#34;table&#34;&gt;
-  
-    
-    
-    &lt;tr&gt;  &lt;th&gt;customer_id&lt;/th&gt;  &lt;th&gt;score&lt;/th&gt;  &lt;/tr&gt;
-  
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;1&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;0&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;2&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;0.5&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;3&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;1&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-  
-    &lt;caption&gt;Table 1: My results&lt;/caption&gt;
-  
-&lt;/table&gt;
-
-&lt;h3 id=&#34;callouts&#34;&gt;Callouts&lt;/h3&gt;
-&lt;p&gt;Academic supports a &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/#callouts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcode for callouts&lt;/a&gt;, also referred to as &lt;em&gt;asides&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;. By wrapping a paragraph in &lt;code&gt;{{% callout note %}} ... {{% /callout %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% callout note %}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% /callout %}}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h3 id=&#34;spoilers&#34;&gt;Spoilers&lt;/h3&gt;
-&lt;p&gt;Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;text&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Click to view the spoiler&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;You found me!
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
-  &lt;summary&gt;Click to view the spoiler&lt;/summary&gt;
-  &lt;p&gt;You found me!&lt;/p&gt;
-&lt;/details&gt;
-&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
-&lt;p&gt;Academic enables you to use a wide range of &lt;a href=&#34;https://wowchemy.com/docs/getting-started/page-builder/#icons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;icons from &lt;em&gt;Font Awesome&lt;/em&gt; and &lt;em&gt;Academicons&lt;/em&gt;&lt;/a&gt; in addition to &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/#emojis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emojis&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Here are some examples using the &lt;code&gt;icon&lt;/code&gt; shortcode to render icons:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;terminal&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;pack&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fas&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}} Terminal  
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;python&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;pack&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fab&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}} Python  
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;r-project&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;pack&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fab&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}} R
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-terminal  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Terminal&lt;br&gt;
-
-  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python&lt;br&gt;
-
-  &lt;i class=&#34;fab fa-r-project  pr-1 fa-fw&#34;&gt;&lt;/i&gt; R&lt;/p&gt;
-&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://example.com/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/jupyter/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Welcome to Academic!&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
-&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;jupyter lab index.ipynb
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;title: My post&amp;#39;s title
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;date: 2019-09-01
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# Put any other Academic metadata here...
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Edit the metadata of your post, using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
-&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;.
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
-&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;div class="mermaid">stateDiagram
+[*] --> Still
+Still --> [*]
+Still --> Moving
+Moving --> Still
+Moving --> Crash
+Crash --> [*]
+&lt;/div>
+&lt;h3 id="todo-lists">Todo lists&lt;/h3>
+&lt;p>You can even write your todo lists in Markdown too:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">&lt;span class="k">- [x]&lt;/span> Write math example
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">- [x]&lt;/span> Write diagram example
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">- [ ]&lt;/span> Do something else
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
+&lt;ul>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Write math example
+&lt;ul>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Write diagram example&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Do something else&lt;/li>
+&lt;/ul>
+&lt;h3 id="tables">Tables&lt;/h3>
+&lt;p>Save your spreadsheet as a CSV file in your page&amp;rsquo;s folder and then render it by adding the &lt;em>Table&lt;/em> shortcode to your page:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-go" data-lang="go">&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&amp;lt;&lt;/span> &lt;span class="nx">table&lt;/span> &lt;span class="nx">path&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;results.csv&amp;#34;&lt;/span> &lt;span class="nx">header&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;true&amp;#34;&lt;/span> &lt;span class="nx">caption&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;Table 1: My results&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;}}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
+&lt;table class="table">
+&lt;tr> &lt;th>customer_id&lt;/th> &lt;th>score&lt;/th> &lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">1&lt;/td>
+&lt;td data-table-dtype="number">0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2&lt;/td>
+&lt;td data-table-dtype="text">0.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">3&lt;/td>
+&lt;td data-table-dtype="number">1&lt;/td>
+&lt;/tr>
+&lt;caption>Table 1: My results&lt;/caption>
+&lt;/table>
+&lt;h3 id="callouts">Callouts&lt;/h3>
+&lt;p>Academic supports a &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/#callouts" target="_blank" rel="noopener">shortcode for callouts&lt;/a>, also referred to as &lt;em>asides&lt;/em>, &lt;em>hints&lt;/em>, or &lt;em>alerts&lt;/em>. By wrapping a paragraph in &lt;code>{{% callout note %}} ... {{% /callout %}}&lt;/code>, it will render as an aside.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{% callout note %}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{% /callout %}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
+A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+&lt;/div>
+&lt;/div>
+&lt;h3 id="spoilers">Spoilers&lt;/h3>
+&lt;p>Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">spoiler&lt;/span> &lt;span class="na">text&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;Click to view the spoiler&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">You found me!
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="p">/&lt;/span>&lt;span class="nt">spoiler&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
+&lt;details class="spoiler " id="spoiler-6">
+&lt;summary>Click to view the spoiler&lt;/summary>
+&lt;p>You found me!&lt;/p>
+&lt;/details>
+&lt;h3 id="icons">Icons&lt;/h3>
+&lt;p>Academic enables you to use a wide range of &lt;a href="https://wowchemy.com/docs/getting-started/page-builder/#icons" target="_blank" rel="noopener">icons from &lt;em>Font Awesome&lt;/em> and &lt;em>Academicons&lt;/em>&lt;/a> in addition to &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/#emojis" target="_blank" rel="noopener">emojis&lt;/a>.&lt;/p>
+&lt;p>Here are some examples using the &lt;code>icon&lt;/code> shortcode to render icons:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">icon&lt;/span> &lt;span class="na">name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;terminal&amp;#34;&lt;/span> &lt;span class="na">pack&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;fas&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}} Terminal
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">icon&lt;/span> &lt;span class="na">name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;python&amp;#34;&lt;/span> &lt;span class="na">pack&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;fab&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}} Python
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">icon&lt;/span> &lt;span class="na">name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;r-project&amp;#34;&lt;/span> &lt;span class="na">pack&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;fab&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}} R
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
+&lt;p>
+&lt;i class="fas fa-terminal pr-1 fa-fw">&lt;/i> Terminal&lt;br>
+&lt;i class="fab fa-python pr-1 fa-fw">&lt;/i> Python&lt;br>
+&lt;i class="fab fa-r-project pr-1 fa-fw">&lt;/i> R&lt;/p>
+&lt;h3 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌&lt;/h3></description></item><item><title>Display Jupyter Notebooks with Academic</title><link>https://example.com/post/jupyter/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://example.com/post/jupyter/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">from&lt;/span> &lt;span class="nn">IPython.core.display&lt;/span> &lt;span class="kn">import&lt;/span> &lt;span class="n">Image&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">Image&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./index_1_0.png" alt="png" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;Welcome to Academic!&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;pre>&lt;code>Welcome to Academic!
+&lt;/code>&lt;/pre>
+&lt;h2 id="install-python-and-jupyterlab">Install Python and JupyterLab&lt;/h2>
+&lt;p>&lt;a href="https://www.anaconda.com/distribution/#download-section" target="_blank" rel="noopener">Install Anaconda&lt;/a> which includes Python 3 and JupyterLab.&lt;/p>
+&lt;p>Alternatively, install JupyterLab with &lt;code>pip3 install jupyterlab&lt;/code>.&lt;/p>
+&lt;h2 id="create-or-upload-a-jupyter-notebook">Create or upload a Jupyter notebook&lt;/h2>
+&lt;p>Run the following commands in your Terminal, substituting &lt;code>&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code> and &lt;code>&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code> with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">cd&lt;/span> &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">jupyter lab index.ipynb
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>The &lt;code>jupyter&lt;/code> command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p>
+&lt;h2 id="edit-your-post-metadata">Edit your post metadata&lt;/h2>
+&lt;p>The first cell of your Jupter notebook will contain your post metadata (&lt;a href="https://sourcethemes.com/academic/docs/front-matter/" target="_blank" rel="noopener">front matter&lt;/a>).&lt;/p>
+&lt;p>In Jupter, choose &lt;em>Markdown&lt;/em> as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">---
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">title: My post&amp;#39;s title
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">date: 2019-09-01
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"># Put any other Academic metadata here...
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">---
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Edit the metadata of your post, using the &lt;a href="https://sourcethemes.com/academic/docs/managing-content" target="_blank" rel="noopener">documentation&lt;/a> as a guide to the available options.&lt;/p>
+&lt;p>To set a &lt;a href="https://sourcethemes.com/academic/docs/managing-content/#featured-image" target="_blank" rel="noopener">featured image&lt;/a>, place an image named &lt;code>featured&lt;/code> into your post&amp;rsquo;s folder.&lt;/p>
+&lt;p>For other tips, such as using math, see the guide on &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/" target="_blank" rel="noopener">writing content with Academic&lt;/a>.&lt;/p>
+&lt;h2 id="convert-notebook-to-markdown">Convert notebook to Markdown&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir&lt;span class="o">=&lt;/span>.
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="example">Example&lt;/h2>
+&lt;p>This post was created with Jupyter. The orginal files can be found at &lt;a href="https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter" target="_blank" rel="noopener">https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a>&lt;/p></description></item></channel></rss>
