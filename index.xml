@@ -156,7 +156,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-835914276" class="chart">&lt;/div>
+&lt;div id="chart-527946813" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -165,7 +165,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-835914276', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-527946813', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -542,6 +542,6 @@ data-background-image="/media/boards.jpg"
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://github.com/user-attachments/assets/0cdc57a1-edb4-46f8-8ce0-7806f1e4ccad" alt="研究方向介绍_陈耀然" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://github.com/user-attachments/assets/e13d407b-939f-4f09-a4f9-129ccf7f2f4b" alt="图片1" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item></channel></rss>
