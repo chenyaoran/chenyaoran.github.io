@@ -156,7 +156,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-246587193" class="chart">&lt;/div>
+&lt;div id="chart-835914276" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -165,7 +165,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-246587193', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-835914276', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -538,29 +538,10 @@ data-background-image="/media/boards.jpg"
 &lt;h2 id="已结题项目">已结题项目&lt;/h2>
 &lt;ul>
 &lt;li>无人艇集群运动仿真系统开发 (2022，横向项目，参与)&lt;/li>
-&lt;/ul></description></item><item><title>招生信息</title><link>https://example.com/hello/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/hello/</guid><description>&lt;p>同学你好，如果你对我的研究方向感兴趣，可以发邮件(&lt;a href="mailto:ychen169@shu.edu.cn">ychen169@shu.edu.cn&lt;/a>)和我联系交流。针对不同的研究方向，你如果具备以下的学习基础将可能会更快速地上手：&lt;/p>
-&lt;p>i. 智能海洋环境&lt;/p>
-&lt;ul>
-&lt;li>比较好的英语阅读和写作能力；&lt;/li>
-&lt;li>比较好的线性代数和统计学基础；&lt;/li>
-&lt;li>比较好的python编程基础；&lt;/li>
-&lt;li>对基于tensorflow，keras或者pytorch的深度学习框架有一定实践；&lt;/li>
-&lt;li>喜欢并渴望了解chatGPT等大语言&lt;/li>
-&lt;/ul>
-&lt;p>ii. 计算流体动力学数值&lt;/p>
-&lt;ul>
-&lt;li>比较好的英语阅读能力；&lt;/li>
-&lt;li>比较好的微积分和线性代数基础；&lt;/li>
-&lt;li>一定的理论力学和流体力学基础；&lt;/li>
-&lt;li>基本的python或者Java编程基础；&lt;/li>
-&lt;li>对基于有限元法或者有限体积法的数值计算软件有一定实践，如果没有，能够熟练使用计算机辅助设计软件（CAD）也是极好的；&lt;/li>
-&lt;/ul>
-&lt;p>iii.海洋工程代理模型及智能&lt;/p>
-&lt;ul>
-&lt;li>超强的探索欲望和内部驱动力&lt;/li>
-&lt;li>比较好的英语阅读能力和写作能力；&lt;/li>
-&lt;li>比较好的线性代数和概率论基础；&lt;/li>
-&lt;li>一定的数学建模思维和学习基础；&lt;/li>
-&lt;li>基本的python编程基础；&lt;/li>
-&lt;li>对启发式算法（如遗传算法）或强化学习有一定实践。&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/ul></description></item><item><title>招生信息</title><link>https://example.com/hello/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/hello/</guid><description>&lt;p>同学你好，如果你对我的研究方向感兴趣，可以发邮件(&lt;a href="mailto:ychen169@shu.edu.cn">ychen169@shu.edu.cn&lt;/a>)和我联系交流。以下是我的研究方向的介绍：&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://github.com/user-attachments/assets/0cdc57a1-edb4-46f8-8ce0-7806f1e4ccad" alt="研究方向介绍_陈耀然" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item></channel></rss>
